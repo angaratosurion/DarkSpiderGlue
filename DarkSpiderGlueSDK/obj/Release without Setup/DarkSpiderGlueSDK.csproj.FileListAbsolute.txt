@@ -1,0 +1,4 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Release without Setup\DarkSpiderGlueSDK.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Release without Setup\DarkSpiderGlueSDK.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release without Setup\DarkSpiderGlueSDK.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release without Setup\DarkSpiderGlueSDK.pdb

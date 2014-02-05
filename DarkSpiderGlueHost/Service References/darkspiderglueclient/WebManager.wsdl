@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:wsap="http://schemas.xmlsoap.org/ws/2004/08/addressing/policy" xmlns:wsa10="http://www.w3.org/2005/08/addressing" xmlns:tns="http://tempuri.org/" xmlns:msc="http://schemas.microsoft.com/ws/2005/12/wsdl/contract" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:wsx="http://schemas.xmlsoap.org/ws/2004/09/mex" xmlns:wsp="http://schemas.xmlsoap.org/ws/2004/09/policy" xmlns:wsam="http://www.w3.org/2007/05/addressing/metadata" xmlns:wsa="http://schemas.xmlsoap.org/ws/2004/08/addressing" xmlns:wsaw="http://www.w3.org/2006/05/addressing/wsdl" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:wsu="http://docs.oasis-open.org/wss/2004/01/oasis-200401-wss-wssecurity-utility-1.0.xsd" xmlns:xsd="http://www.w3.org/2001/XMLSchema" name="WebManager" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <xsd:schema targetNamespace="http://tempuri.org/Imports">
+      <xsd:import schemaLocation="http://localhost/darkspiderglue/?xsd=xsd0" namespace="http://tempuri.org/" />
+      <xsd:import schemaLocation="http://localhost/darkspiderglue/?xsd=xsd1" namespace="http://schemas.microsoft.com/2003/10/Serialization/" />
+      <xsd:import schemaLocation="http://localhost/darkspiderglue/?xsd=xsd2" namespace="http://schemas.microsoft.com/2003/10/Serialization/Arrays" />
+    </xsd:schema>
+  </wsdl:types>
+  <wsdl:message name="ISpiderWebService_ShutdownAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:ShutdownAll" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_ShutdownAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ShutdownAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_GetEndpoints_InputMessage">
+    <wsdl:part name="parameters" element="tns:GetEndpoints" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_GetEndpoints_OutputMessage">
+    <wsdl:part name="parameters" element="tns:GetEndpointsResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_FindService_InputMessage">
+    <wsdl:part name="parameters" element="tns:FindService" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_FindService_OutputMessage">
+    <wsdl:part name="parameters" element="tns:FindServiceResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_ShutownContainedServices_InputMessage">
+    <wsdl:part name="parameters" element="tns:ShutownContainedServices" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_ShutownContainedServices_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ShutownContainedServicesResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_HostAll_InputMessage">
+    <wsdl:part name="parameters" element="tns:HostAll" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_HostAll_OutputMessage">
+    <wsdl:part name="parameters" element="tns:HostAllResponse" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_ListServices_InputMessage">
+    <wsdl:part name="parameters" element="tns:ListServices" />
+  </wsdl:message>
+  <wsdl:message name="ISpiderWebService_ListServices_OutputMessage">
+    <wsdl:part name="parameters" element="tns:ListServicesResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ISpiderWebService">
+    <wsdl:operation name="ShutdownAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISpiderWebService/ShutdownAll" message="tns:ISpiderWebService_ShutdownAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISpiderWebService/ShutdownAllResponse" message="tns:ISpiderWebService_ShutdownAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="GetEndpoints">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISpiderWebService/GetEndpoints" message="tns:ISpiderWebService_GetEndpoints_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISpiderWebService/GetEndpointsResponse" message="tns:ISpiderWebService_GetEndpoints_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="FindService">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISpiderWebService/FindService" message="tns:ISpiderWebService_FindService_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISpiderWebService/FindServiceResponse" message="tns:ISpiderWebService_FindService_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ShutownContainedServices">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISpiderWebService/ShutownContainedServices" message="tns:ISpiderWebService_ShutownContainedServices_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISpiderWebService/ShutownContainedServicesResponse" message="tns:ISpiderWebService_ShutownContainedServices_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="HostAll">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISpiderWebService/HostAll" message="tns:ISpiderWebService_HostAll_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISpiderWebService/HostAllResponse" message="tns:ISpiderWebService_HostAll_OutputMessage" />
+    </wsdl:operation>
+    <wsdl:operation name="ListServices">
+      <wsdl:input wsaw:Action="http://tempuri.org/ISpiderWebService/ListServices" message="tns:ISpiderWebService_ListServices_InputMessage" />
+      <wsdl:output wsaw:Action="http://tempuri.org/ISpiderWebService/ListServicesResponse" message="tns:ISpiderWebService_ListServices_OutputMessage" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="BasicHttpBinding_ISpiderWebService" type="tns:ISpiderWebService">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ShutdownAll">
+      <soap:operation soapAction="http://tempuri.org/ISpiderWebService/ShutdownAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetEndpoints">
+      <soap:operation soapAction="http://tempuri.org/ISpiderWebService/GetEndpoints" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="FindService">
+      <soap:operation soapAction="http://tempuri.org/ISpiderWebService/FindService" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ShutownContainedServices">
+      <soap:operation soapAction="http://tempuri.org/ISpiderWebService/ShutownContainedServices" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="HostAll">
+      <soap:operation soapAction="http://tempuri.org/ISpiderWebService/HostAll" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="ListServices">
+      <soap:operation soapAction="http://tempuri.org/ISpiderWebService/ListServices" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="WebManager">
+    <wsdl:port name="BasicHttpBinding_ISpiderWebService" binding="tns:BasicHttpBinding_ISpiderWebService">
+      <soap:address location="http://localhost/darkspiderglue/mngr" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

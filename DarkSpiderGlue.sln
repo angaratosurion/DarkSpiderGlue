@@ -1,0 +1,88 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpiderGlue", "DarkSpiderGlue\DarkSpiderGlue.csproj", "{324CFFEE-CEE5-41E8-96BA-91A12129D879}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpiderGlueSDK", "DarkSpiderGlueSDK\DarkSpiderGlueSDK.csproj", "{6290DA59-0508-4CD6-B55D-8ABD5F040D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkGlueHost", "DarkSpiderGlueHost\DarkGlueHost.csproj", "{EE8E0397-8930-48F8-9119-D06530ED4CD4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879} = {324CFFEE-CEE5-41E8-96BA-91A12129D879}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpiderGlueService", "DarkSpiderGlueService\DarkSpiderGlueService.csproj", "{60BE1E95-9827-4E8E-98EC-D30C89239B84}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DarkSpiderGlue Setup", "DarkSpiderGlue Setup\DarkSpiderGlue Setup.vdproj", "{BB6709C7-1A20-4BE6-8BDF-AD5DB137DDBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpiderGlueControler", "DarkSpiderGlueControler\DarkSpiderGlueControler.csproj", "{7B749B78-5728-4A10-857B-EA405AC2CF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DarkSpiderGlueWeb", "DarkSpiderGlueWeb\DarkSpiderGlueWeb.csproj", "{3756F924-1358-46C3-96C2-23CD18E3D428}"
+	ProjectSection(ProjectDependencies) = postProject
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879} = {324CFFEE-CEE5-41E8-96BA-91A12129D879}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug With Setup|Any CPU = Debug With Setup|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release without Setup|Any CPU = Release without Setup|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Debug With Setup|Any CPU.ActiveCfg = Debug With Setup|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Debug With Setup|Any CPU.Build.0 = Debug With Setup|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Release without Setup|Any CPU.ActiveCfg = Release without Setup|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Release without Setup|Any CPU.Build.0 = Release without Setup|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{324CFFEE-CEE5-41E8-96BA-91A12129D879}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Debug With Setup|Any CPU.ActiveCfg = Debug With Setup|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Debug With Setup|Any CPU.Build.0 = Debug With Setup|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Release without Setup|Any CPU.ActiveCfg = Release without Setup|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Release without Setup|Any CPU.Build.0 = Release without Setup|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6290DA59-0508-4CD6-B55D-8ABD5F040D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Debug With Setup|Any CPU.ActiveCfg = Debug With Setup|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Debug With Setup|Any CPU.Build.0 = Debug With Setup|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Release without Setup|Any CPU.ActiveCfg = Release without Setup|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Release without Setup|Any CPU.Build.0 = Release without Setup|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE8E0397-8930-48F8-9119-D06530ED4CD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Debug With Setup|Any CPU.ActiveCfg = Debug With Setup|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Debug With Setup|Any CPU.Build.0 = Debug With Setup|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Release without Setup|Any CPU.ActiveCfg = Release without Setup|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Release without Setup|Any CPU.Build.0 = Release without Setup|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60BE1E95-9827-4E8E-98EC-D30C89239B84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB6709C7-1A20-4BE6-8BDF-AD5DB137DDBF}.Debug With Setup|Any CPU.ActiveCfg = Debug
+		{BB6709C7-1A20-4BE6-8BDF-AD5DB137DDBF}.Debug With Setup|Any CPU.Build.0 = Debug
+		{BB6709C7-1A20-4BE6-8BDF-AD5DB137DDBF}.Debug|Any CPU.ActiveCfg = Debug
+		{BB6709C7-1A20-4BE6-8BDF-AD5DB137DDBF}.Release without Setup|Any CPU.ActiveCfg = Release without Setup
+		{BB6709C7-1A20-4BE6-8BDF-AD5DB137DDBF}.Release|Any CPU.ActiveCfg = Release
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Debug With Setup|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Release without Setup|Any CPU.ActiveCfg = Release without Setup|Any CPU
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Release without Setup|Any CPU.Build.0 = Release without Setup|Any CPU
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B749B78-5728-4A10-857B-EA405AC2CF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Debug With Setup|Any CPU.ActiveCfg = Debug|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Debug With Setup|Any CPU.Build.0 = Debug|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Release without Setup|Any CPU.ActiveCfg = Release without Setup|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Release without Setup|Any CPU.Build.0 = Release without Setup|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3756F924-1358-46C3-96C2-23CD18E3D428}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

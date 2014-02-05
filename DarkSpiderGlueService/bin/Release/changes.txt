@@ -1,0 +1,17 @@
+﻿0.0.2.5 
+21-11-2013
+*Now you can see the active services and theirendpoints
+*Also you can disable the user creation
+16-11-2013
+*added a place to list(not working ) and  to add new services.
+* implement/ added basic asp.net membership
+*moved the services folder from bin folder of the web site part to the app_data
+*added new method which it hosts services for a custom directory
+15-11-2013
+*deleted yesterdays web service and kept the interface which it wasimplemented.
+*Created a new web site which now it auto hosts the wcf services just by launching the console host.
+14-11-2013
+*implemented s webserivece which it will allow the hosting of other services within her.
+0.0.1.1 - 25-8-2013
+*implemnted hosting of services
+*implemnted actions like ,start,stoping , listing names and endpoints of wcfservices.

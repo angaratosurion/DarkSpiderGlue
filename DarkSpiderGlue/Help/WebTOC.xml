@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="9e5c8ec3-2529-4c33-b7d4-206a79d14c82" Title="DarkSpiderGlue Namespace" Url="html/d8a7a322-cc42-6b37-56ec-b9ca7106f520.htm">
+    <HelpTOCNode Id="b86853c2-4778-44c1-9431-173737c2b373" Title="GlueHost Class" Url="html/572c1683-fb50-1678-7889-0e54e31ba079.htm">
+      <HelpTOCNode Title="GlueHost Members" Url="html/c92243f7-596a-fec3-4154-2d27e6b2e823.htm" />
+      <HelpTOCNode Title="GlueHost Constructor " Url="html/84b83732-6370-3633-ad7c-60b55adcc057.htm" />
+      <HelpTOCNode Id="e3429533-af68-423c-8666-034d5a8f05f9" Title="GlueHost Methods" Url="html/6191b524-5cf4-7063-256e-4f67417549e6.htm">
+        <HelpTOCNode Title="GetAllEndpoints Method " Url="html/05cfcac5-221b-e90e-7ce9-5def323d594b.htm" />
+        <HelpTOCNode Title="GetServicesList Method " Url="html/fdf2de5a-b80b-c26a-5694-c7fbbb4b62a4.htm" />
+        <HelpTOCNode Title="HostServices Method " Url="html/6f02d495-5c17-b787-8e31-b7c2cae5a3af.htm" />
+        <HelpTOCNode Title="Init Method " Url="html/6d2a08f6-e095-debe-9e84-f9c912bf7a4f.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/85e92934-c95b-d8a1-d37b-5ac8e62ca5d6.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/d1ee06be-9fef-9b55-87fa-6fe3d491186c.htm" />
+        <HelpTOCNode Title="WcfLibaryName Method " Url="html/2aa2a9a4-ac3f-2363-c4b5-911be65caed3.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e95a9f1f-15de-491f-b8c2-472065a8292a" Title="SpiderWeb Class" Url="html/55bf8136-9736-7cf7-b61b-b445f1b828da.htm">
+      <HelpTOCNode Title="SpiderWeb Members" Url="html/cc432074-ecbe-42e0-6b61-0154accce7a2.htm" />
+      <HelpTOCNode Title="SpiderWeb Constructor " Url="html/2f94fe59-3804-c877-867d-2d14714e38ff.htm" />
+      <HelpTOCNode Id="a6ac5396-1d25-4bf4-b370-949c3afd4750" Title="SpiderWeb Methods" Url="html/38b65972-070f-471d-b793-794cb646f08f.htm">
+        <HelpTOCNode Title="FindService Method " Url="html/0a543c1b-c9a7-27ce-5706-0f0d7f837f44.htm" />
+        <HelpTOCNode Title="GetEndpoints Method " Url="html/60ef103f-43d4-5f53-b65d-eb65a7080985.htm" />
+        <HelpTOCNode Id="100bc805-9f75-47cf-ad39-81e0bb06bd0c" Title="HostAll Method " Url="html/bd01cd70-2698-faa3-a757-7b1132e56632.htm">
+          <HelpTOCNode Title="HostAll Method " Url="html/605602c3-d255-f59f-7eb6-493cf0b891c5.htm" />
+          <HelpTOCNode Title="HostAll Method (String)" Url="html/bf5c4239-45c1-b00a-6272-ece1d490db78.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="ListServices Method " Url="html/991990b8-85c5-c8bd-9b69-dbcc389a98ec.htm" />
+        <HelpTOCNode Title="ShutdownAll Method " Url="html/de6c5fda-0226-f65b-694c-b3c592d0b1e9.htm" />
+        <HelpTOCNode Title="ShutownContainedServices Method " Url="html/506175c1-955d-0b62-123b-09f82d747b08.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="e3739833-dc00-4de3-b387-44ac73af4c43" Title="WebManager Class" Url="html/4db65af7-3444-3353-393e-9bc568b617fe.htm">
+      <HelpTOCNode Title="WebManager Members" Url="html/f4ad312f-7d9a-0f8a-2812-5de06b38bf3b.htm" />
+      <HelpTOCNode Title="WebManager Constructor " Url="html/8a0ae57b-5b21-8a0c-ca67-3ab7d360b0a7.htm" />
+      <HelpTOCNode Id="d8a0671a-4f6d-4b1f-a1c7-3b4d04a066a8" Title="WebManager Methods" Url="html/d82c76d8-3d19-9ccc-12ad-eb44a1f85b59.htm">
+        <HelpTOCNode Title="FindService Method " Url="html/1fc52183-78c0-dccc-a3bc-3a666f9e9a6e.htm" />
+        <HelpTOCNode Title="GetEndpoints Method " Url="html/126694ed-9718-5e3a-900b-16a44e91c3e0.htm" />
+        <HelpTOCNode Title="HostAll Method " Url="html/0b302fec-2438-0656-2666-bf2214a59776.htm" />
+        <HelpTOCNode Title="ListServices Method " Url="html/fd339db9-4e00-7dd4-580c-c4a5f0437e0f.htm" />
+        <HelpTOCNode Title="ShutdownAll Method " Url="html/46b70acc-4a20-6e2f-4964-8919b414d8ef.htm" />
+        <HelpTOCNode Title="ShutownContainedServices Method " Url="html/f042955a-c6be-8e2f-7068-23e31ad51284.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="0516a88d-f05c-4225-b1cf-024c585797f0" Title="DarkSpiderGlue.Interfaces Namespace" Url="html/4f558438-069e-520d-e55e-8ed8b2d1a9e6.htm">
+    <HelpTOCNode Id="747f26ee-5584-478e-bee3-38cdfb7b7dd6" Title="IGlueHost Interface" Url="html/a6dc6488-4d3e-cc4b-cb8c-a51c8f6db917.htm">
+      <HelpTOCNode Title="IGlueHost Members" Url="html/1cda53c1-5281-6030-2a79-3546be5fa072.htm" />
+      <HelpTOCNode Id="d48e1611-9620-4247-ac35-1ebf680b69cb" Title="IGlueHost Methods" Url="html/8b62d42e-bc53-e092-341a-504bd1997bb4.htm">
+        <HelpTOCNode Title="GetAllEndpoints Method " Url="html/508e03a7-a230-0ec0-e44a-33c1544387a3.htm" />
+        <HelpTOCNode Title="Init Method " Url="html/6dcb2736-79c8-e7b8-3e24-103fb5f0df91.htm" />
+        <HelpTOCNode Title="Shutdown Method " Url="html/aae60e2a-8670-9f6b-09c6-6396c3704c53.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/5cf53759-cd48-3ed9-ee88-06db7e1b0970.htm" />
+        <HelpTOCNode Title="WcfLibaryName Method " Url="html/73e11732-dc14-d1be-d211-5704bcbe8e83.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="054c142b-1e33-4058-843c-5eab398b68d1" Title="DarkSpiderGlueControler Namespace" Url="html/53a7a2ff-a05a-1fee-f623-11277d5ca817.htm">
+    <HelpTOCNode Id="ca773a6c-07c8-4f55-9146-35b66dd2283d" Title="frmGUI Class" Url="html/874e1f6a-3218-29e6-15a3-7d17906f3dce.htm">
+      <HelpTOCNode Title="frmGUI Members" Url="html/b1e83c99-2118-49f2-41b3-480f35ded7bc.htm" />
+      <HelpTOCNode Title="frmGUI Constructor " Url="html/5c0c32e4-6f98-917c-35f3-2f0e572eabab.htm" />
+      <HelpTOCNode Id="ba631904-1b0c-4c66-8be0-5453bbc5268e" Title="frmGUI Methods" Url="html/cbdbe180-2255-cfb9-e8d5-ee94e1eb44cc.htm">
+        <HelpTOCNode Id="9ee5628c-fa6f-40dd-9ef7-b58c4ec2c00b" Title="Dispose Method " Url="html/9a197ed9-85d7-2cea-3425-5db4f05d1b90.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/7f7f4582-0c75-6446-5103-c1aa7c87c42f.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="frmGUI Properties" Url="html/9328a458-e1b1-83a1-7456-b23eb69a5e15.htm" />
+      <HelpTOCNode Title="frmGUI Events" Url="html/daa8a1d7-3fdc-ffbb-15d2-cea87ba96423.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="10861f5f-2756-45e3-87df-635ed47686b7" Title="DarkSpiderGlueHost Namespace" Url="html/46294af1-0c1b-6d1a-6746-223d9121e733.htm">
+    <HelpTOCNode Id="39d3493d-2421-4d05-afe3-3f56d53aac7b" Title="Program Class" Url="html/69c4d670-5580-9605-bcf5-688301e471dd.htm">
+      <HelpTOCNode Title="Program Members" Url="html/ad113af1-29e5-1dbc-033c-2bbcfd77bd0b.htm" />
+      <HelpTOCNode Title="Program Constructor " Url="html/2624fbac-4855-4ccc-84de-554c1eece479.htm" />
+      <HelpTOCNode Id="8327a988-5257-4897-93cb-221c82730ced" Title="Program Fields" Url="html/efe66b37-8fbf-e9d4-7cc8-02e8713fa0ba.htm">
+        <HelpTOCNode Title="end Field" Url="html/b6d6cd9b-908b-8071-e05d-a63273f82f11.htm" />
+        <HelpTOCNode Title="services Field" Url="html/4b71ab83-1584-fcfd-0576-ee9104a795b7.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="246bedd3-322e-4035-bd6e-09df2527126e" Title="Program Methods" Url="html/390241ec-7976-8e5b-bea3-c24d10c451ba.htm">
+        <HelpTOCNode Title="FindWindow Method " Url="html/1fb2a229-1c31-5549-e651-7450d5beb8a7.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="67d6c6fc-7fdd-4b8c-b9da-600157204c47" Title="DarkSpiderGlueHost.darkspiderglueclient Namespace" Url="html/64a8cdb8-6222-49d0-ee91-293b5a5df7f4.htm">
+    <HelpTOCNode Id="683e936d-5819-4526-addc-9dd805962d1d" Title="ISpiderWebService Interface" Url="html/2f1512ba-ed17-0f36-7df0-049cdc0dfb2e.htm">
+      <HelpTOCNode Title="ISpiderWebService Members" Url="html/4a4e736e-12c1-6ebd-03f1-dc0d01ecec61.htm" />
+      <HelpTOCNode Id="e846dfa6-250e-40f6-9846-f0b67f15468f" Title="ISpiderWebService Methods" Url="html/215cd205-49cf-98b6-07b2-96790e833019.htm">
+        <HelpTOCNode Title="FindService Method " Url="html/2dfbe6f7-1de7-90be-c916-5a4ab0637194.htm" />
+        <HelpTOCNode Title="GetEndpoints Method " Url="html/df2a5f14-1d56-d5a2-fa60-8b71a75a2d8e.htm" />
+        <HelpTOCNode Title="HostAll Method " Url="html/2199a5b9-dfde-d39f-d336-1dca5272884f.htm" />
+        <HelpTOCNode Title="ListServices Method " Url="html/9d6d4fd9-eb9c-6658-5592-ef24bbe61d08.htm" />
+        <HelpTOCNode Title="ShutdownAll Method " Url="html/83f3e80d-0421-8cd0-ced3-8d4640e2e391.htm" />
+        <HelpTOCNode Title="ShutownContainedServices Method " Url="html/e5909f74-308c-e3d5-b5b3-edef30ae2a9e.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="7a072446-53ec-45ce-a9a1-565b1a3f6505" Title="ISpiderWebServiceChannel Interface" Url="html/a1946546-d329-b19c-1ecc-f371b739fdd1.htm">
+      <HelpTOCNode Title="ISpiderWebServiceChannel Members" Url="html/fc8db14f-6dea-b7dd-de5b-acd18bad0af6.htm" />
+      <HelpTOCNode Title="ISpiderWebServiceChannel Methods" Url="html/4fba2e47-f61f-1427-fcbe-a3641b707a6c.htm" />
+      <HelpTOCNode Title="ISpiderWebServiceChannel Properties" Url="html/11698ccf-aff7-7048-da17-f86a8b919a83.htm" />
+      <HelpTOCNode Title="ISpiderWebServiceChannel Events" Url="html/44cb3cfc-67c8-b388-757a-483a661b2340.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="1f9bfdad-2f4a-4bdc-ada1-1da966d90676" Title="SpiderWebServiceClient Class" Url="html/3fca7a18-14eb-f6b8-af1b-94e255bc1c5c.htm">
+      <HelpTOCNode Title="SpiderWebServiceClient Members" Url="html/b7934b43-65a4-5da0-cd18-37b5476fe28f.htm" />
+      <HelpTOCNode Id="4f951186-cb1e-4b11-8c78-8a86c412c49b" Title="SpiderWebServiceClient Constructor " Url="html/e25d0e26-3e7f-0188-eb8a-5c0eb7242f89.htm">
+        <HelpTOCNode Title="SpiderWebServiceClient Constructor " Url="html/6b122566-ad76-822a-e3cd-0b1dc9f09a92.htm" />
+        <HelpTOCNode Title="SpiderWebServiceClient Constructor (String)" Url="html/86571fa6-e15c-bd5d-8fcd-5a15edd9611c.htm" />
+        <HelpTOCNode Title="SpiderWebServiceClient Constructor (Binding, EndpointAddress)" Url="html/12bdc8e8-4114-2172-8666-3236b88b8977.htm" />
+        <HelpTOCNode Title="SpiderWebServiceClient Constructor (String, EndpointAddress)" Url="html/084f45e2-01a3-7c58-1f9a-88f945603d93.htm" />
+        <HelpTOCNode Title="SpiderWebServiceClient Constructor (String, String)" Url="html/35303212-a9e9-a5fd-93b6-45d327e6aff9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="bbe52a13-7e57-4135-a2b3-f41b82b4b13e" Title="SpiderWebServiceClient Methods" Url="html/ae7a5b47-8b19-875a-a6fe-3f9f12183509.htm">
+        <HelpTOCNode Title="FindService Method " Url="html/e10dacd0-4361-c535-2f67-6388759caaf2.htm" />
+        <HelpTOCNode Title="GetEndpoints Method " Url="html/82914c57-ae66-1cd5-cd4d-be4c8ef34bfc.htm" />
+        <HelpTOCNode Title="HostAll Method " Url="html/6d0b62d2-baf9-6f11-d5ce-1ff9f579b287.htm" />
+        <HelpTOCNode Title="ListServices Method " Url="html/d75a394a-2c49-b305-1009-7e5af1041963.htm" />
+        <HelpTOCNode Title="ShutdownAll Method " Url="html/5e9b8650-5ea0-bf9b-5d00-4d4702d1be96.htm" />
+        <HelpTOCNode Title="ShutownContainedServices Method " Url="html/3f6c7905-f930-009f-d250-597a8c035c98.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SpiderWebServiceClient Properties" Url="html/4714e7e8-92d4-8f7a-ccec-328b7bc05aa0.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="2b819dbf-5917-42ef-b6b5-429bfb01bdac" Title="DarkSpiderGlueSDK Namespace" Url="html/98615046-a8a2-02a6-ec4d-e100645018a6.htm">
+    <HelpTOCNode Id="b084ca20-e19b-4f8b-89eb-fe80b1c2e6f3" Title="Class1 Class" Url="html/2e1ab227-a835-0582-b4fc-a55a2d276b3b.htm">
+      <HelpTOCNode Title="Class1 Members" Url="html/81befd65-620d-87ba-4875-cdd749deb31d.htm" />
+      <HelpTOCNode Title="Class1 Constructor " Url="html/e09d8f22-cd0c-9849-496f-90eea72824ad.htm" />
+      <HelpTOCNode Title="Class1 Methods" Url="html/3713b025-baff-a10e-7762-cb13fc594b58.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="bf162b39-04bc-4073-bf70-a2729455b62f" Title="DarkSpiderGlueService Namespace" Url="html/7a6aa0d9-ff1e-94c5-c266-3c050d4994ec.htm">
+    <HelpTOCNode Id="c804a5f9-7500-48c1-9919-2db72efa8fda" Title="ProjectInstaller Class" Url="html/ebaf51f0-e399-c8a8-63c1-c43eee35226b.htm">
+      <HelpTOCNode Title="ProjectInstaller Members" Url="html/58453433-0c39-6a74-c65f-bd75e4d7fbd1.htm" />
+      <HelpTOCNode Title="ProjectInstaller Constructor " Url="html/0c6e8f68-47cc-9065-54cf-cde8779bcf39.htm" />
+      <HelpTOCNode Id="f6ff27f4-5615-496b-8dc2-9b2f6cfce80c" Title="ProjectInstaller Methods" Url="html/124001c1-1400-aa0d-4ce3-da56d15d989a.htm">
+        <HelpTOCNode Id="1785e996-0cb1-435a-be95-b961a12fae6d" Title="Dispose Method " Url="html/3b4c76ed-688d-37af-365a-7c01266d9d7b.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/a25d6e5d-357c-88e6-ebab-fd95ceaed4cc.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="ProjectInstaller Properties" Url="html/f2cf5707-3bca-9bd7-ff69-927e4064fa2c.htm" />
+      <HelpTOCNode Title="ProjectInstaller Events" Url="html/5819a558-bae3-aa5f-8663-b73eeac304e8.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="38ea91f6-5132-492d-a795-2acf925d8776" Title="DarkSpiderGlueWeb Namespace" Url="html/0211fdd6-83c5-d23e-3d9b-75c5e073e433.htm">
+    <HelpTOCNode Id="390618d9-93d9-4771-b8d1-636fbf07ba4d" Title="_Default Class" Url="html/264aee9d-4897-8a50-e023-dccd9ab9f9bd.htm">
+      <HelpTOCNode Title="_Default Members" Url="html/d4776e01-30c0-dbc0-453b-d6907c75c05b.htm" />
+      <HelpTOCNode Title="_Default Constructor " Url="html/17929a8d-45f1-2761-5e9e-b9fde0631a64.htm" />
+      <HelpTOCNode Id="70b5cda1-f26d-4ff7-9d48-0d97d02e9c1d" Title="_Default Methods" Url="html/93eac87f-fcf0-f38e-192e-ce0d9a4759e2.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/1e376917-dc0d-ad97-7ee5-23449b79531c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="_Default Properties" Url="html/a73508e9-8265-34fe-4749-60457787f004.htm" />
+      <HelpTOCNode Title="_Default Events" Url="html/6d38c880-e6d3-7967-f330-93cfbc801d6a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="844a6f64-ea91-478a-ac87-717631ed2a37" Title="About Class" Url="html/2ffbd970-9715-a89a-f6a5-fbe6dc5fca21.htm">
+      <HelpTOCNode Title="About Members" Url="html/9912ca55-a2e7-fe0f-e70a-c625a21ae98c.htm" />
+      <HelpTOCNode Title="About Constructor " Url="html/57d4196b-3e83-258a-245a-a58609934402.htm" />
+      <HelpTOCNode Id="0fad7367-e1cb-45c0-acb7-721d9c9e06d9" Title="About Fields" Url="html/92ac592b-36ca-3aef-7327-baef012d8dc3.htm">
+        <HelpTOCNode Title="lblAppname Field" Url="html/863b40a8-06af-6c89-76c9-d44f20921b4c.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="70a631ac-4edd-40f5-a7b4-f08ff534bb7a" Title="About Methods" Url="html/f5d4ddd8-9300-1022-6b1a-5467b07b9d24.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/e51a4393-bcf4-fc79-52ee-696a20740a1d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="About Properties" Url="html/551db26d-b4d9-4297-e460-a5207a4e2c4f.htm" />
+      <HelpTOCNode Title="About Events" Url="html/25da0381-caf5-17e8-8bf6-10e3fe058803.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a073c20c-64cb-4bb3-9996-1a573b1235f5" Title="Global Class" Url="html/c090a060-a328-2a86-a7eb-5d061a6eca31.htm">
+      <HelpTOCNode Title="Global Members" Url="html/3321ac2d-8397-0f09-47e7-96a9aeed7535.htm" />
+      <HelpTOCNode Title="Global Constructor " Url="html/5df06ec0-c094-1f39-e0ca-42db3597cb71.htm" />
+      <HelpTOCNode Id="9c94ada1-1ae4-461b-9ea6-c0ed90ddec33" Title="Global Fields" Url="html/fa751779-e21c-e852-2b41-1c3969b7bd92.htm">
+        <HelpTOCNode Title="apppath Field" Url="html/2f6f23cb-5330-e2b2-09c4-f0540eefcb24.htm" />
+        <HelpTOCNode Title="rootpath Field" Url="html/a689d6fb-390b-3ed4-f344-db04e438e4f8.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Global Methods" Url="html/7d6b84de-15c7-5e2a-6e3c-182a01157d44.htm" />
+      <HelpTOCNode Title="Global Properties" Url="html/74cccdb1-c349-463e-f0a1-06abfcbde2c2.htm" />
+      <HelpTOCNode Title="Global Events" Url="html/b604c727-23fe-a06a-57b4-2ea00b1a4962.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="8d918f4c-e5c2-41af-8a5f-703fd8a71680" Title="SiteMaster Class" Url="html/50c318b5-1892-8c0f-45b2-fee31025fe77.htm">
+      <HelpTOCNode Title="SiteMaster Members" Url="html/f8e348d7-75a9-5094-d45a-56b5951dae3d.htm" />
+      <HelpTOCNode Title="SiteMaster Constructor " Url="html/14b9581b-05a5-c8b8-0f7e-cbd047ebafa2.htm" />
+      <HelpTOCNode Id="c0a60fa4-5f85-401d-aa8c-806cd9247973" Title="SiteMaster Fields" Url="html/f770f17d-759c-519b-55f0-3ed7662ee5ee.htm">
+        <HelpTOCNode Title="HeadContent Field" Url="html/a45b18cd-5298-8d13-a419-cd71e632df86.htm" />
+        <HelpTOCNode Title="HeadLoginView Field" Url="html/dc10e893-6a29-b852-c0dc-30e0c47ac0a9.htm" />
+        <HelpTOCNode Title="lblappname Field" Url="html/edb92090-d6eb-2301-e998-9e5cb884696c.htm" />
+        <HelpTOCNode Title="MainContent Field" Url="html/643eb5a0-628f-cdd0-5686-c7c901a82394.htm" />
+        <HelpTOCNode Title="NavigationMenu Field" Url="html/013ce84d-4e88-d3c4-b74b-30376dcf674d.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="60109dce-ec55-4c86-a1b8-2083d679f2b6" Title="SiteMaster Methods" Url="html/02da798b-56af-887d-25d6-6342efc799b3.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/f115964f-95c4-088f-e3a3-475d2f3314be.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="SiteMaster Properties" Url="html/a783a52d-816c-34e0-1fa9-f6e07ec66ab0.htm" />
+      <HelpTOCNode Title="SiteMaster Events" Url="html/ce93dfaa-1fb8-e0a8-2cb4-974f5181b5be.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="d1282c35-5d5c-4e3e-8eff-d1521a9614b0" Title="DarkSpiderGlueWeb.Account Namespace" Url="html/14c1ac01-e58e-9061-3f82-459081ada67d.htm">
+    <HelpTOCNode Id="fb00f08f-01f9-4491-912c-70dace4f904c" Title="ChangePassword Class" Url="html/a171b749-cc85-5ed1-59a8-fe9caf398dea.htm">
+      <HelpTOCNode Title="ChangePassword Members" Url="html/e6d927cc-d1f4-2d3e-440a-69c7fb11810e.htm" />
+      <HelpTOCNode Title="ChangePassword Constructor " Url="html/f7a2835d-4282-8e60-c6a5-f18ce7aacd46.htm" />
+      <HelpTOCNode Id="c34d0c77-c60e-418f-b72d-806349dac406" Title="ChangePassword Fields" Url="html/6f2a8fc8-0d15-47ce-63ed-7c7ea5b5485a.htm">
+        <HelpTOCNode Title="ChangeUserPassword Field" Url="html/4377e9d8-8243-1bc5-043b-781087e8fae0.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="54057779-0879-4a1c-b42c-b1fc47481b28" Title="ChangePassword Methods" Url="html/3f1a8306-9055-c3ac-48a1-f3fa22300c20.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/65afc155-41b6-8c7c-2bec-69d39e7252dd.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ChangePassword Properties" Url="html/f8cfdbb6-99a2-959d-9c70-b39f39efd675.htm" />
+      <HelpTOCNode Title="ChangePassword Events" Url="html/3aaf7e98-88c0-f875-3354-c6d85b381d99.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a6c71707-7f8f-4e96-8e92-b0ee0e0c0eb7" Title="ChangePasswordSuccess Class" Url="html/603635c0-1370-780a-2375-ad925d9292cd.htm">
+      <HelpTOCNode Title="ChangePasswordSuccess Members" Url="html/3c5f4fa5-9f5b-ec8e-eb21-fae12d1c317d.htm" />
+      <HelpTOCNode Title="ChangePasswordSuccess Constructor " Url="html/eba78d5d-cfd6-0ebf-001a-0f19dc00ebd9.htm" />
+      <HelpTOCNode Id="12001243-4dfb-4812-ae17-13e35b063d0b" Title="ChangePasswordSuccess Methods" Url="html/82f52cdc-e1e8-bf02-dcbe-26f637f49785.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/0efb766a-c94e-36af-6448-1641d78cb7b2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="ChangePasswordSuccess Properties" Url="html/f7ee6ae4-7c3c-757e-6c81-b4bff8bac247.htm" />
+      <HelpTOCNode Title="ChangePasswordSuccess Events" Url="html/69e555e6-d918-c1f7-cf4d-9ee6a65225d3.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="b3451169-bb83-4619-816e-e27bba505c4b" Title="Login Class" Url="html/23bb3542-3350-4224-1398-2aed26286b58.htm">
+      <HelpTOCNode Title="Login Members" Url="html/d13fbad7-9d1f-0e25-00ff-aa6249b72134.htm" />
+      <HelpTOCNode Title="Login Constructor " Url="html/c4d58002-4f24-4013-c205-6a7a790e5aaa.htm" />
+      <HelpTOCNode Id="48f612bb-d829-4a75-8e56-71b7f23baf28" Title="Login Fields" Url="html/f30a7694-4067-61b1-0307-9fff83536595.htm">
+        <HelpTOCNode Title="LoginUser Field" Url="html/72a6216c-31bb-8e98-d4cc-c444a36be702.htm" />
+        <HelpTOCNode Title="RegisterHyperLink Field" Url="html/d9772751-8f36-8977-c69d-e94c534720f9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="a3527ec9-e4be-4a12-9c04-264bd6ac0f83" Title="Login Methods" Url="html/0fe64650-a975-664f-1598-efca69e21fc4.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/28c7f9c1-f049-d7dc-d4b1-248f53821fa1.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Login Properties" Url="html/28e357c8-ddd4-030f-6f63-3b545d047c6d.htm" />
+      <HelpTOCNode Title="Login Events" Url="html/7b941b7a-dff3-c78d-4e23-e5c673a67c3b.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="a99f215f-2e20-42c6-a89b-18fb5c668a20" Title="Register Class" Url="html/4936c502-d760-a642-ba0e-b5e57d4210b8.htm">
+      <HelpTOCNode Title="Register Members" Url="html/66eb2017-10cd-cedb-4962-a98c7b169106.htm" />
+      <HelpTOCNode Title="Register Constructor " Url="html/1f82bff0-d8fd-4362-e165-cfbb6db4d7d4.htm" />
+      <HelpTOCNode Id="be3d3e5f-dabd-4e26-a18d-a1e17e5ac2e1" Title="Register Fields" Url="html/85810bba-0b66-7832-44ae-3b6d0a1b5871.htm">
+        <HelpTOCNode Title="lblDisabledUserCreation Field" Url="html/e4a018b8-fb6b-b614-18a4-695ea3c54f63.htm" />
+        <HelpTOCNode Title="RegisterUser Field" Url="html/7af13960-8bf8-7e3c-179b-af1bf0e045ea.htm" />
+        <HelpTOCNode Title="RegisterUserWizardStep Field" Url="html/01f29c68-7d8f-a815-4892-ed975f601ccb.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="7f0ed1a5-b227-422d-9063-5549f6d51538" Title="Register Methods" Url="html/673e5a76-5c13-8515-3933-416ae2a5ca07.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/691ddb52-1328-2b1f-5041-cc252c853148.htm" />
+        <HelpTOCNode Title="RegisterUser_CreatedUser Method " Url="html/ed5c2594-f2e5-d8e9-6ca3-32bc2b1ba0f9.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Register Properties" Url="html/c48966c3-e9c5-57ce-ac99-23744d4dd384.htm" />
+      <HelpTOCNode Title="Register Events" Url="html/a9fab5ab-86c5-285d-db23-8a599b549e28.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="572ba5c4-2d16-4db6-9bc7-9a91221fdb03" Title="DarkSpiderGlueWeb.API Namespace" Url="html/09f4539a-d639-2e7d-ef4d-034a138cfe24.htm">
+    <HelpTOCNode Id="ad0c5553-d992-4365-af61-2e8754aeb8dc" Title="Base Class" Url="html/7958b4a0-23ed-387e-9d93-fc4db0b7872e.htm">
+      <HelpTOCNode Title="Base Members" Url="html/5c87178a-d778-783f-a0a9-885a3df5bb14.htm" />
+      <HelpTOCNode Title="Base Constructor " Url="html/4bdfb961-d4b8-4491-c484-a50174526a52.htm" />
+      <HelpTOCNode Id="b0c239db-ef96-4d6e-b027-3f5467bc2d4c" Title="Base Methods" Url="html/af68725e-ab04-9818-9d54-7e28b1bd57a9.htm">
+        <HelpTOCNode Title="GetAppName Method " Url="html/99fc6ed6-d9c9-5aeb-ce47-fbdbe59d4494.htm" />
+        <HelpTOCNode Title="GetModuleNamesAndVersions Method " Url="html/22d150c6-4f4e-344e-62ac-2a6a52e1e7cb.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="1387aa2a-a04b-42d0-b78a-5a7fc9cca156" Title="ProcessMngr Class" Url="html/d56a35a0-5e0f-7de1-e843-653de433fb93.htm">
+      <HelpTOCNode Title="ProcessMngr Members" Url="html/5489072a-eaa8-1d75-b150-f5eb424a85f8.htm" />
+      <HelpTOCNode Title="ProcessMngr Constructor " Url="html/b1c5dde8-8845-de02-e3b5-b6d5da0a8261.htm" />
+      <HelpTOCNode Id="9aa99610-ad0a-414b-aef9-24e535112d6c" Title="ProcessMngr Methods" Url="html/39782453-a116-4122-529d-978fc462c9af.htm">
+        <HelpTOCNode Title="Restart Method " Url="html/ec8f6fb8-a804-5f1e-5509-8c0fa2a07772.htm" />
+        <HelpTOCNode Title="Start Method " Url="html/2ba86417-b9bb-5ddf-0b2d-bf0424ef2db2.htm" />
+        <HelpTOCNode Title="Stop Method " Url="html/13575869-e340-1b28-e190-c3e6c25a066c.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+    <HelpTOCNode Id="4314ab9d-8f95-482d-909a-71607a1c685d" Title="ReadConfig Class" Url="html/d15e2d16-c5ed-606a-543b-f1c8cb4fb25f.htm">
+      <HelpTOCNode Title="ReadConfig Members" Url="html/462f3d6f-4a9a-eb45-5d15-f348b4c9d116.htm" />
+      <HelpTOCNode Title="ReadConfig Constructor " Url="html/7c8c2a5e-a589-cfe7-1b43-aa82718800a8.htm" />
+      <HelpTOCNode Id="bbba3ad7-044b-4198-ae5a-73071126a8be" Title="ReadConfig Fields" Url="html/c79047bd-9d3d-b087-8f73-0cab1981b7e8.htm">
+        <HelpTOCNode Title="configfile Field" Url="html/1d7a08fa-95ff-3cc3-a083-975ae5909047.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="1fa72598-7933-425e-805d-af5939939583" Title="ReadConfig Methods" Url="html/24fb3a89-4288-5d35-3685-4483280f7117.htm">
+        <HelpTOCNode Title="Readconfig Method " Url="html/0282dae9-f557-eb76-e502-2fc65d742d0b.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="d7f8085e-bf85-4e17-b11c-9ffe7822b52f" Title="ReadConfig Properties" Url="html/1e17747c-040b-dc9f-eaac-559c8d37748b.htm">
+        <HelpTOCNode Title="createUser Property " Url="html/e92f6321-5aa9-da05-1846-33d21e32f056.htm" />
+      </HelpTOCNode>
+    </HelpTOCNode>
+  </HelpTOCNode>
+  <HelpTOCNode Id="6ced9224-c129-4c9a-b074-30d157b828ba" Title="DarkSpiderGlueWeb.Services Namespace" Url="html/876b5875-d757-5c7e-9063-be63586f44c5.htm">
+    <HelpTOCNode Id="236725c1-d8d4-4483-b8c5-47b67c5682ea" Title="Add Class" Url="html/9a3bd7e8-747a-e3ed-39c1-ea8c56e70b8b.htm">
+      <HelpTOCNode Title="Add Members" Url="html/037b338c-3ecb-fe40-693e-f877d41167d3.htm" />
+      <HelpTOCNode Title="Add Constructor " Url="html/8692580b-5039-bccd-238d-1a2ed87a5229.htm" />
+      <HelpTOCNode Id="6578a43c-ed92-4c9a-b1e7-e87b62128338" Title="Add Fields" Url="html/8e46be8e-25fb-c002-698c-72fad2c83aa9.htm">
+        <HelpTOCNode Title="btnUpload Field" Url="html/3b947c0e-af87-c632-51dc-a5c7deccc0b7.htm" />
+        <HelpTOCNode Title="flUpload Field" Url="html/db35d9c3-5d60-c8fb-9a19-11dabdcb94a5.htm" />
+        <HelpTOCNode Title="lblServiceFiles Field" Url="html/34d39a91-006a-3dbb-74ca-93f2f1704ff4.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="01c273d0-f507-41cb-80a6-96d319a25490" Title="Add Methods" Url="html/9edda6f4-51b0-ffa4-8f1c-71a1a5073a36.htm">
+        <HelpTOCNode Title="btnUpload_Click Method " Url="html/47fbb338-247c-a6cb-8331-035b329fe855.htm" />
+        <HelpTOCNode Title="Page_Load Method " Url="html/bd83d5ae-7bbc-437c-175b-f2db051047d2.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="Add Properties" Url="html/a0f53142-7ae2-a7b5-e487-941a866d640f.htm" />
+      <HelpTOCNode Title="Add Events" Url="html/80b9ed7f-d1a2-0992-fb7d-45bf8983156a.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="88e63c47-de3a-4553-a530-7407c2b7009b" Title="List Class" Url="html/8c5aebd5-74ba-1803-8f0c-b2c97ee80254.htm">
+      <HelpTOCNode Title="List Members" Url="html/40a57b73-4de7-c43f-a01c-33835a6bb259.htm" />
+      <HelpTOCNode Title="List Constructor " Url="html/0264fbe8-63fa-38ec-3949-60fd1f6d2bc2.htm" />
+      <HelpTOCNode Id="692cc0c6-bdd7-47de-9eff-37f8c773c72f" Title="List Fields" Url="html/4c264cb3-3f52-8809-1ba4-5e507ba9183c.htm">
+        <HelpTOCNode Title="EndPoit Field" Url="html/a1cff687-c1e0-ea65-b592-306daf4ee3b9.htm" />
+        <HelpTOCNode Title="ServiceName Field" Url="html/c718db42-a2fa-084f-b4b6-c80672103a60.htm" />
+        <HelpTOCNode Title="tblServices Field" Url="html/43d6ae79-8575-2143-ab60-e3377cc29e08.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Id="6f2c597b-b582-432d-a74d-7f943957e7de" Title="List Methods" Url="html/6ca2eec3-7b0e-3c49-9820-3f06fe007d87.htm">
+        <HelpTOCNode Title="Page_Load Method " Url="html/1c9af0d3-3c1b-e81d-6670-979ff8673c3e.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="List Properties" Url="html/02c537ae-f393-89d4-28d2-8a0177e01d54.htm" />
+      <HelpTOCNode Title="List Events" Url="html/0858901d-a493-9abc-0221-60964bff739c.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

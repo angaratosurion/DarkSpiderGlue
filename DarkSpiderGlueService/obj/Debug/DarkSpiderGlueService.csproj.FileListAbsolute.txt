@@ -1,0 +1,11 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Debug\DarkSpiderGlueService.exe.config
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Debug\DarkSpiderGlueService.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Debug\DarkSpiderGlueService.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Debug\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Debug\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Debug\DarkSpiderGlue.xml
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\obj\Debug\DarkSpiderGlueService.csprojResolveAssemblyReference.cache
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\obj\Debug\DarkSpiderGlueService.ProjectInstaller.resources
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\obj\Debug\DarkSpiderGlueService.csproj.GenerateResource.Cache
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\obj\Debug\DarkSpiderGlueService.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\obj\Debug\DarkSpiderGlueService.pdb

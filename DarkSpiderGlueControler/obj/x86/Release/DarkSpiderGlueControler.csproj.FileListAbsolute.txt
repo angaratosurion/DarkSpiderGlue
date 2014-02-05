@@ -1,0 +1,17 @@
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\bin\Release\DarkSpiderGlueControler.exe
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\bin\Release\DarkSpiderGlueControler.pdb
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\ResolveAssemblyReference.cache
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.frmGUI.resources
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.Properties.Resources.resources
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\GenerateResource.read.1.tlog
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\GenerateResource.write.1.tlog
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.exe
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\bin\Release\DarkSpiderGlueControler.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\bin\Release\DarkSpiderGlueControler.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.frmGUI.resources
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.Properties.Resources.resources
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.csproj.GenerateResource.Cache
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\x86\Release\DarkSpiderGlueControler.csprojResolveAssemblyReference.cache

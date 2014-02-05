@@ -1,0 +1,12 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Debug\DarkSpiderGlue.dll.config
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Debug\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Debug\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Debug\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Debug\DarkSpiderGlue.pdb
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Debug\DarkSpiderGlue.dll.config
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Debug\DarkSpiderGlue.dll
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Debug\DarkSpiderGlue.pdb
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Debug\ResolveAssemblyReference.cache
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Debug\DarkSpiderGlue.dll
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Debug\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Debug\DarkSpiderGlue.csprojResolveAssemblyReference.cache

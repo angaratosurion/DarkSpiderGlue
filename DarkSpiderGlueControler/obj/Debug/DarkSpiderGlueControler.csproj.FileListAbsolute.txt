@@ -1,0 +1,8 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\bin\Debug\DarkSpiderGlueControler.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\bin\Debug\DarkSpiderGlueControler.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\Debug\DarkSpiderGlueControler.frmGUI.resources
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\Debug\DarkSpiderGlueControler.Properties.Resources.resources
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\Debug\DarkSpiderGlueControler.csproj.GenerateResource.Cache
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\Debug\DarkSpiderGlueControler.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\Debug\DarkSpiderGlueControler.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueControler\obj\Debug\DarkSpiderGlueControler.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlueWeb.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlueWeb.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlueHost.exe
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\ICSharpCode.SharpZipLib.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlue.xml
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release without Setup\DarkSpiderGlueWeb.csprojResolveAssemblyReference.cache
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release without Setup\DarkSpiderGlueWeb.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release without Setup\DarkSpiderGlueWeb.pdb

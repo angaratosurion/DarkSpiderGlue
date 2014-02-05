@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>DarkSpiderGlue</name>
+    </assembly>
+    <members>
+        <member name="M:DarkSpiderGlue.SpiderWeb.HostAll">
+            <summary>
+            Hosts all WCF Services that are in the application folder\services path and starts them
+            </summary>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.ShutdownAll">
+            <summary>
+            Shutdowns all the hosted libraries
+            </summary>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.GetEndpoints">
+            <summary>
+            Returns the full list Of endpoints that are hosted within DarkSpiderGlue
+            </summary>
+            <returns>Returns the full list Of endpoints that are hosted within DarkSpiderGlue</returns>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.FindServie(System.String)">
+            <summary>
+            Finds the WCF service library with the given name
+            </summary>
+            <param name="name">name of the WCF library</param>
+            <returns>the WCF service library with the given name</returns>
+        </member>
+        <member name="T:DarkSpiderGlue.GlueHost">
+            <summary>
+            The Generic Host class which will host all the services contained within a wcfLibrary
+            </summary>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.Init(System.String)">
+            <summary>
+            Ininitialisesall service's included in the given assembly and creates/configures a servicehost
+            </summary>
+            <param name="assemblyFilePath">full path of the assembly file</param>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.EnsureServiceHostHelpperAssemblyExists(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="assemblyFilePath"></param>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.Start">
+            <summary>
+            Starts all the services that are included in the given assembly
+            </summary>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.Shutdown">
+            <summary>
+            Stops all the services in the given assembly
+            </summary>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.GetAllEndpoints">
+            <summary>
+            Returns the full list of the endpoints  from the given assemblies
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.HostServices(System.String)">
+            <summary>
+            Loads the WCF Library's configuration and the assembly code in the memory and returns all the contained
+            services hosted within a GlueHost
+            </summary>
+            <param name="assemblyFilePath">full path of the WCG Library</param>
+            <returns>returns all the contained
+            services hosted within a GlueHost</returns>
+        </member>
+        <member name="M:DarkSpiderGlue.GlueHost.GetServicesList">
+            <summary>
+            Returns the List with names of the Loaded Services
+            </summary>
+            <returns> Returns the List with names of the Loaded Services</returns>
+        </member>
+    </members>
+</doc>

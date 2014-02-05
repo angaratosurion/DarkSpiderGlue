@@ -1,0 +1,6 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Release without Setup\DarkSpiderGlue.dll.config
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Release without Setup\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Release without Setup\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\bin\Release without Setup\DarkSpiderGlue.XML
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Release without Setup\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlue\obj\Release without Setup\DarkSpiderGlue.pdb

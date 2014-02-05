@@ -1,0 +1,9 @@
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Release\DarkSpiderGlueSDK.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Release\DarkSpiderGlueSDK.pdb
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release\DarkSpiderGlueSDK.dll
+Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release\DarkSpiderGlueSDK.pdb
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Release\DarkSpiderGlueSDK.dll
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Release\DarkSpiderGlueSDK.pdb
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release\ResolveAssemblyReference.cache
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release\DarkSpiderGlueSDK.dll
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Release\DarkSpiderGlueSDK.pdb

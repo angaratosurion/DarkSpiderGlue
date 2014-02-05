@@ -1,0 +1,544 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+  <HelpKINode Title="About class">
+    <HelpKINode Title="About Class" Url="html/2ffbd970-9715-a89a-f6a5-fbe6dc5fca21.htm" />
+    <HelpKINode Title="About Members" Url="html/9912ca55-a2e7-fe0f-e70a-c625a21ae98c.htm" />
+    <HelpKINode Title="about About class" Url="html/2ffbd970-9715-a89a-f6a5-fbe6dc5fca21.htm" />
+    <HelpKINode Title="all members" Url="html/9912ca55-a2e7-fe0f-e70a-c625a21ae98c.htm" />
+    <HelpKINode Title="constructor" Url="html/57d4196b-3e83-258a-245a-a58609934402.htm" />
+    <HelpKINode Title="events" Url="html/25da0381-caf5-17e8-8bf6-10e3fe058803.htm" />
+    <HelpKINode Title="fields" Url="html/92ac592b-36ca-3aef-7327-baef012d8dc3.htm" />
+    <HelpKINode Title="methods" Url="html/f5d4ddd8-9300-1022-6b1a-5467b07b9d24.htm" />
+    <HelpKINode Title="properties" Url="html/551db26d-b4d9-4297-e460-a5207a4e2c4f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="About.About constructor" Url="html/57d4196b-3e83-258a-245a-a58609934402.htm" />
+  <HelpKINode Title="About.lblAppname field" Url="html/863b40a8-06af-6c89-76c9-d44f20921b4c.htm" />
+  <HelpKINode Title="About.Page_Load method" Url="html/e51a4393-bcf4-fc79-52ee-696a20740a1d.htm" />
+  <HelpKINode Title="Add class">
+    <HelpKINode Title="Add Class" Url="html/9a3bd7e8-747a-e3ed-39c1-ea8c56e70b8b.htm" />
+    <HelpKINode Title="Add Members" Url="html/037b338c-3ecb-fe40-693e-f877d41167d3.htm" />
+    <HelpKINode Title="about Add class" Url="html/9a3bd7e8-747a-e3ed-39c1-ea8c56e70b8b.htm" />
+    <HelpKINode Title="all members" Url="html/037b338c-3ecb-fe40-693e-f877d41167d3.htm" />
+    <HelpKINode Title="constructor" Url="html/8692580b-5039-bccd-238d-1a2ed87a5229.htm" />
+    <HelpKINode Title="events" Url="html/80b9ed7f-d1a2-0992-fb7d-45bf8983156a.htm" />
+    <HelpKINode Title="fields" Url="html/8e46be8e-25fb-c002-698c-72fad2c83aa9.htm" />
+    <HelpKINode Title="methods" Url="html/9edda6f4-51b0-ffa4-8f1c-71a1a5073a36.htm" />
+    <HelpKINode Title="properties" Url="html/a0f53142-7ae2-a7b5-e487-941a866d640f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Add.Add constructor" Url="html/8692580b-5039-bccd-238d-1a2ed87a5229.htm" />
+  <HelpKINode Title="Add.btnUpload field" Url="html/3b947c0e-af87-c632-51dc-a5c7deccc0b7.htm" />
+  <HelpKINode Title="Add.btnUpload_Click method" Url="html/47fbb338-247c-a6cb-8331-035b329fe855.htm" />
+  <HelpKINode Title="Add.flUpload field" Url="html/db35d9c3-5d60-c8fb-9a19-11dabdcb94a5.htm" />
+  <HelpKINode Title="Add.lblServiceFiles field" Url="html/34d39a91-006a-3dbb-74ca-93f2f1704ff4.htm" />
+  <HelpKINode Title="Add.Page_Load method" Url="html/bd83d5ae-7bbc-437c-175b-f2db051047d2.htm" />
+  <HelpKINode Title="apppath field" Url="html/2f6f23cb-5330-e2b2-09c4-f0540eefcb24.htm" />
+  <HelpKINode Title="Base class">
+    <HelpKINode Title="Base Class" Url="html/7958b4a0-23ed-387e-9d93-fc4db0b7872e.htm" />
+    <HelpKINode Title="Base Members" Url="html/5c87178a-d778-783f-a0a9-885a3df5bb14.htm" />
+    <HelpKINode Title="about Base class" Url="html/7958b4a0-23ed-387e-9d93-fc4db0b7872e.htm" />
+    <HelpKINode Title="all members" Url="html/5c87178a-d778-783f-a0a9-885a3df5bb14.htm" />
+    <HelpKINode Title="constructor" Url="html/4bdfb961-d4b8-4491-c484-a50174526a52.htm" />
+    <HelpKINode Title="methods" Url="html/af68725e-ab04-9818-9d54-7e28b1bd57a9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Base.Base constructor" Url="html/4bdfb961-d4b8-4491-c484-a50174526a52.htm" />
+  <HelpKINode Title="Base.GetAppName method" Url="html/99fc6ed6-d9c9-5aeb-ce47-fbdbe59d4494.htm" />
+  <HelpKINode Title="Base.GetModuleNamesAndVersions method" Url="html/22d150c6-4f4e-344e-62ac-2a6a52e1e7cb.htm" />
+  <HelpKINode Title="btnUpload field" Url="html/3b947c0e-af87-c632-51dc-a5c7deccc0b7.htm" />
+  <HelpKINode Title="btnUpload_Click method" Url="html/47fbb338-247c-a6cb-8331-035b329fe855.htm" />
+  <HelpKINode Title="ChangePassword class">
+    <HelpKINode Title="ChangePassword Class" Url="html/a171b749-cc85-5ed1-59a8-fe9caf398dea.htm" />
+    <HelpKINode Title="ChangePassword Members" Url="html/e6d927cc-d1f4-2d3e-440a-69c7fb11810e.htm" />
+    <HelpKINode Title="about ChangePassword class" Url="html/a171b749-cc85-5ed1-59a8-fe9caf398dea.htm" />
+    <HelpKINode Title="all members" Url="html/e6d927cc-d1f4-2d3e-440a-69c7fb11810e.htm" />
+    <HelpKINode Title="constructor" Url="html/f7a2835d-4282-8e60-c6a5-f18ce7aacd46.htm" />
+    <HelpKINode Title="events" Url="html/3aaf7e98-88c0-f875-3354-c6d85b381d99.htm" />
+    <HelpKINode Title="fields" Url="html/6f2a8fc8-0d15-47ce-63ed-7c7ea5b5485a.htm" />
+    <HelpKINode Title="methods" Url="html/3f1a8306-9055-c3ac-48a1-f3fa22300c20.htm" />
+    <HelpKINode Title="properties" Url="html/f8cfdbb6-99a2-959d-9c70-b39f39efd675.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePassword.ChangePassword constructor" Url="html/f7a2835d-4282-8e60-c6a5-f18ce7aacd46.htm" />
+  <HelpKINode Title="ChangePassword.ChangeUserPassword field" Url="html/4377e9d8-8243-1bc5-043b-781087e8fae0.htm" />
+  <HelpKINode Title="ChangePassword.Page_Load method" Url="html/65afc155-41b6-8c7c-2bec-69d39e7252dd.htm" />
+  <HelpKINode Title="ChangePasswordSuccess class">
+    <HelpKINode Title="ChangePasswordSuccess Class" Url="html/603635c0-1370-780a-2375-ad925d9292cd.htm" />
+    <HelpKINode Title="ChangePasswordSuccess Members" Url="html/3c5f4fa5-9f5b-ec8e-eb21-fae12d1c317d.htm" />
+    <HelpKINode Title="about ChangePasswordSuccess class" Url="html/603635c0-1370-780a-2375-ad925d9292cd.htm" />
+    <HelpKINode Title="all members" Url="html/3c5f4fa5-9f5b-ec8e-eb21-fae12d1c317d.htm" />
+    <HelpKINode Title="constructor" Url="html/eba78d5d-cfd6-0ebf-001a-0f19dc00ebd9.htm" />
+    <HelpKINode Title="events" Url="html/69e555e6-d918-c1f7-cf4d-9ee6a65225d3.htm" />
+    <HelpKINode Title="methods" Url="html/82f52cdc-e1e8-bf02-dcbe-26f637f49785.htm" />
+    <HelpKINode Title="properties" Url="html/f7ee6ae4-7c3c-757e-6c81-b4bff8bac247.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ChangePasswordSuccess.ChangePasswordSuccess constructor" Url="html/eba78d5d-cfd6-0ebf-001a-0f19dc00ebd9.htm" />
+  <HelpKINode Title="ChangePasswordSuccess.Page_Load method" Url="html/0efb766a-c94e-36af-6448-1641d78cb7b2.htm" />
+  <HelpKINode Title="ChangeUserPassword field" Url="html/4377e9d8-8243-1bc5-043b-781087e8fae0.htm" />
+  <HelpKINode Title="Class1 class">
+    <HelpKINode Title="Class1 Class" Url="html/2e1ab227-a835-0582-b4fc-a55a2d276b3b.htm" />
+    <HelpKINode Title="Class1 Members" Url="html/81befd65-620d-87ba-4875-cdd749deb31d.htm" />
+    <HelpKINode Title="about Class1 class" Url="html/2e1ab227-a835-0582-b4fc-a55a2d276b3b.htm" />
+    <HelpKINode Title="all members" Url="html/81befd65-620d-87ba-4875-cdd749deb31d.htm" />
+    <HelpKINode Title="constructor" Url="html/e09d8f22-cd0c-9849-496f-90eea72824ad.htm" />
+    <HelpKINode Title="methods" Url="html/3713b025-baff-a10e-7762-cb13fc594b58.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Class1.Class1 constructor" Url="html/e09d8f22-cd0c-9849-496f-90eea72824ad.htm" />
+  <HelpKINode Title="configfile field" Url="html/1d7a08fa-95ff-3cc3-a083-975ae5909047.htm" />
+  <HelpKINode Title="createUser property" Url="html/e92f6321-5aa9-da05-1846-33d21e32f056.htm" />
+  <HelpKINode Title="DarkSpiderGlue namespace" Url="html/d8a7a322-cc42-6b37-56ec-b9ca7106f520.htm" />
+  <HelpKINode Title="DarkSpiderGlue.GlueHost class">
+    <HelpKINode Title="GlueHost Class" Url="html/572c1683-fb50-1678-7889-0e54e31ba079.htm" />
+    <HelpKINode Title="GlueHost Members" Url="html/c92243f7-596a-fec3-4154-2d27e6b2e823.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlue.Interfaces namespace" Url="html/4f558438-069e-520d-e55e-8ed8b2d1a9e6.htm" />
+  <HelpKINode Title="DarkSpiderGlue.Interfaces.IGlueHost interface">
+    <HelpKINode Title="IGlueHost Interface" Url="html/a6dc6488-4d3e-cc4b-cb8c-a51c8f6db917.htm" />
+    <HelpKINode Title="IGlueHost Members" Url="html/1cda53c1-5281-6030-2a79-3546be5fa072.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlue.SpiderWeb class">
+    <HelpKINode Title="SpiderWeb Class" Url="html/55bf8136-9736-7cf7-b61b-b445f1b828da.htm" />
+    <HelpKINode Title="SpiderWeb Members" Url="html/cc432074-ecbe-42e0-6b61-0154accce7a2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlue.WebManager class">
+    <HelpKINode Title="WebManager Class" Url="html/4db65af7-3444-3353-393e-9bc568b617fe.htm" />
+    <HelpKINode Title="WebManager Members" Url="html/f4ad312f-7d9a-0f8a-2812-5de06b38bf3b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueControler namespace" Url="html/53a7a2ff-a05a-1fee-f623-11277d5ca817.htm" />
+  <HelpKINode Title="DarkSpiderGlueControler.frmGUI class">
+    <HelpKINode Title="frmGUI Class" Url="html/874e1f6a-3218-29e6-15a3-7d17906f3dce.htm" />
+    <HelpKINode Title="frmGUI Members" Url="html/b1e83c99-2118-49f2-41b3-480f35ded7bc.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueHost namespace" Url="html/46294af1-0c1b-6d1a-6746-223d9121e733.htm" />
+  <HelpKINode Title="DarkSpiderGlueHost.darkspiderglueclient namespace" Url="html/64a8cdb8-6222-49d0-ee91-293b5a5df7f4.htm" />
+  <HelpKINode Title="DarkSpiderGlueHost.darkspiderglueclient.ISpiderWebService interface">
+    <HelpKINode Title="ISpiderWebService Interface" Url="html/2f1512ba-ed17-0f36-7df0-049cdc0dfb2e.htm" />
+    <HelpKINode Title="ISpiderWebService Members" Url="html/4a4e736e-12c1-6ebd-03f1-dc0d01ecec61.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueHost.darkspiderglueclient.ISpiderWebServiceChannel interface">
+    <HelpKINode Title="ISpiderWebServiceChannel Interface" Url="html/a1946546-d329-b19c-1ecc-f371b739fdd1.htm" />
+    <HelpKINode Title="ISpiderWebServiceChannel Members" Url="html/fc8db14f-6dea-b7dd-de5b-acd18bad0af6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueHost.darkspiderglueclient.SpiderWebServiceClient class">
+    <HelpKINode Title="SpiderWebServiceClient Class" Url="html/3fca7a18-14eb-f6b8-af1b-94e255bc1c5c.htm" />
+    <HelpKINode Title="SpiderWebServiceClient Members" Url="html/b7934b43-65a4-5da0-cd18-37b5476fe28f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueHost.Program class">
+    <HelpKINode Title="Program Class" Url="html/69c4d670-5580-9605-bcf5-688301e471dd.htm" />
+    <HelpKINode Title="Program Members" Url="html/ad113af1-29e5-1dbc-033c-2bbcfd77bd0b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueSDK namespace" Url="html/98615046-a8a2-02a6-ec4d-e100645018a6.htm" />
+  <HelpKINode Title="DarkSpiderGlueSDK.Class1 class">
+    <HelpKINode Title="Class1 Class" Url="html/2e1ab227-a835-0582-b4fc-a55a2d276b3b.htm" />
+    <HelpKINode Title="Class1 Members" Url="html/81befd65-620d-87ba-4875-cdd749deb31d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueService namespace" Url="html/7a6aa0d9-ff1e-94c5-c266-3c050d4994ec.htm" />
+  <HelpKINode Title="DarkSpiderGlueService.ProjectInstaller class">
+    <HelpKINode Title="ProjectInstaller Class" Url="html/ebaf51f0-e399-c8a8-63c1-c43eee35226b.htm" />
+    <HelpKINode Title="ProjectInstaller Members" Url="html/58453433-0c39-6a74-c65f-bd75e4d7fbd1.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb namespace" Url="html/0211fdd6-83c5-d23e-3d9b-75c5e073e433.htm" />
+  <HelpKINode Title="DarkSpiderGlueWeb.About class">
+    <HelpKINode Title="About Class" Url="html/2ffbd970-9715-a89a-f6a5-fbe6dc5fca21.htm" />
+    <HelpKINode Title="About Members" Url="html/9912ca55-a2e7-fe0f-e70a-c625a21ae98c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Account namespace" Url="html/14c1ac01-e58e-9061-3f82-459081ada67d.htm" />
+  <HelpKINode Title="DarkSpiderGlueWeb.Account.ChangePassword class">
+    <HelpKINode Title="ChangePassword Class" Url="html/a171b749-cc85-5ed1-59a8-fe9caf398dea.htm" />
+    <HelpKINode Title="ChangePassword Members" Url="html/e6d927cc-d1f4-2d3e-440a-69c7fb11810e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Account.ChangePasswordSuccess class">
+    <HelpKINode Title="ChangePasswordSuccess Class" Url="html/603635c0-1370-780a-2375-ad925d9292cd.htm" />
+    <HelpKINode Title="ChangePasswordSuccess Members" Url="html/3c5f4fa5-9f5b-ec8e-eb21-fae12d1c317d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Account.Login class">
+    <HelpKINode Title="Login Class" Url="html/23bb3542-3350-4224-1398-2aed26286b58.htm" />
+    <HelpKINode Title="Login Members" Url="html/d13fbad7-9d1f-0e25-00ff-aa6249b72134.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Account.Register class">
+    <HelpKINode Title="Register Class" Url="html/4936c502-d760-a642-ba0e-b5e57d4210b8.htm" />
+    <HelpKINode Title="Register Members" Url="html/66eb2017-10cd-cedb-4962-a98c7b169106.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.API namespace" Url="html/09f4539a-d639-2e7d-ef4d-034a138cfe24.htm" />
+  <HelpKINode Title="DarkSpiderGlueWeb.API.Base class">
+    <HelpKINode Title="Base Class" Url="html/7958b4a0-23ed-387e-9d93-fc4db0b7872e.htm" />
+    <HelpKINode Title="Base Members" Url="html/5c87178a-d778-783f-a0a9-885a3df5bb14.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.API.ProcessMngr class">
+    <HelpKINode Title="ProcessMngr Class" Url="html/d56a35a0-5e0f-7de1-e843-653de433fb93.htm" />
+    <HelpKINode Title="ProcessMngr Members" Url="html/5489072a-eaa8-1d75-b150-f5eb424a85f8.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.API.ReadConfig class">
+    <HelpKINode Title="ReadConfig Class" Url="html/d15e2d16-c5ed-606a-543b-f1c8cb4fb25f.htm" />
+    <HelpKINode Title="ReadConfig Members" Url="html/462f3d6f-4a9a-eb45-5d15-f348b4c9d116.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Global class">
+    <HelpKINode Title="Global Class" Url="html/c090a060-a328-2a86-a7eb-5d061a6eca31.htm" />
+    <HelpKINode Title="Global Members" Url="html/3321ac2d-8397-0f09-47e7-96a9aeed7535.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Services namespace" Url="html/876b5875-d757-5c7e-9063-be63586f44c5.htm" />
+  <HelpKINode Title="DarkSpiderGlueWeb.Services.Add class">
+    <HelpKINode Title="Add Class" Url="html/9a3bd7e8-747a-e3ed-39c1-ea8c56e70b8b.htm" />
+    <HelpKINode Title="Add Members" Url="html/037b338c-3ecb-fe40-693e-f877d41167d3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.Services.List class">
+    <HelpKINode Title="List Class" Url="html/8c5aebd5-74ba-1803-8f0c-b2c97ee80254.htm" />
+    <HelpKINode Title="List Members" Url="html/40a57b73-4de7-c43f-a01c-33835a6bb259.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb.SiteMaster class">
+    <HelpKINode Title="SiteMaster Class" Url="html/50c318b5-1892-8c0f-45b2-fee31025fe77.htm" />
+    <HelpKINode Title="SiteMaster Members" Url="html/f8e348d7-75a9-5094-d45a-56b5951dae3d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="DarkSpiderGlueWeb._Default class">
+    <HelpKINode Title="_Default Class" Url="html/264aee9d-4897-8a50-e023-dccd9ab9f9bd.htm" />
+    <HelpKINode Title="_Default Members" Url="html/d4776e01-30c0-dbc0-453b-d6907c75c05b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Dispose method">
+    <HelpKINode Title="frmGUI.Dispose Method " Url="html/9a197ed9-85d7-2cea-3425-5db4f05d1b90.htm" />
+    <HelpKINode Title="ProjectInstaller.Dispose Method " Url="html/3b4c76ed-688d-37af-365a-7c01266d9d7b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="end field" Url="html/b6d6cd9b-908b-8071-e05d-a63273f82f11.htm" />
+  <HelpKINode Title="EndPoit field" Url="html/a1cff687-c1e0-ea65-b592-306daf4ee3b9.htm" />
+  <HelpKINode Title="FindService method">
+    <HelpKINode Title="ISpiderWebService.FindService Method " Url="html/2dfbe6f7-1de7-90be-c916-5a4ab0637194.htm" />
+    <HelpKINode Title="SpiderWeb.FindService Method " Url="html/0a543c1b-c9a7-27ce-5706-0f0d7f837f44.htm" />
+    <HelpKINode Title="SpiderWebServiceClient.FindService Method " Url="html/e10dacd0-4361-c535-2f67-6388759caaf2.htm" />
+    <HelpKINode Title="WebManager.FindService Method " Url="html/1fc52183-78c0-dccc-a3bc-3a666f9e9a6e.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FindWindow method" Url="html/1fb2a229-1c31-5549-e651-7450d5beb8a7.htm" />
+  <HelpKINode Title="flUpload field" Url="html/db35d9c3-5d60-c8fb-9a19-11dabdcb94a5.htm" />
+  <HelpKINode Title="frmGUI class">
+    <HelpKINode Title="frmGUI Class" Url="html/874e1f6a-3218-29e6-15a3-7d17906f3dce.htm" />
+    <HelpKINode Title="frmGUI Members" Url="html/b1e83c99-2118-49f2-41b3-480f35ded7bc.htm" />
+    <HelpKINode Title="about frmGUI class" Url="html/874e1f6a-3218-29e6-15a3-7d17906f3dce.htm" />
+    <HelpKINode Title="all members" Url="html/b1e83c99-2118-49f2-41b3-480f35ded7bc.htm" />
+    <HelpKINode Title="constructor" Url="html/5c0c32e4-6f98-917c-35f3-2f0e572eabab.htm" />
+    <HelpKINode Title="events" Url="html/daa8a1d7-3fdc-ffbb-15d2-cea87ba96423.htm" />
+    <HelpKINode Title="methods" Url="html/cbdbe180-2255-cfb9-e8d5-ee94e1eb44cc.htm" />
+    <HelpKINode Title="properties" Url="html/9328a458-e1b1-83a1-7456-b23eb69a5e15.htm" />
+  </HelpKINode>
+  <HelpKINode Title="frmGUI.Dispose method" Url="html/9a197ed9-85d7-2cea-3425-5db4f05d1b90.htm" />
+  <HelpKINode Title="frmGUI.frmGUI constructor" Url="html/5c0c32e4-6f98-917c-35f3-2f0e572eabab.htm" />
+  <HelpKINode Title="GetAllEndpoints method">
+    <HelpKINode Title="GlueHost.GetAllEndpoints Method " Url="html/05cfcac5-221b-e90e-7ce9-5def323d594b.htm" />
+    <HelpKINode Title="IGlueHost.GetAllEndpoints Method " Url="html/508e03a7-a230-0ec0-e44a-33c1544387a3.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetAppName method" Url="html/99fc6ed6-d9c9-5aeb-ce47-fbdbe59d4494.htm" />
+  <HelpKINode Title="GetEndpoints method">
+    <HelpKINode Title="ISpiderWebService.GetEndpoints Method " Url="html/df2a5f14-1d56-d5a2-fa60-8b71a75a2d8e.htm" />
+    <HelpKINode Title="SpiderWeb.GetEndpoints Method " Url="html/60ef103f-43d4-5f53-b65d-eb65a7080985.htm" />
+    <HelpKINode Title="SpiderWebServiceClient.GetEndpoints Method " Url="html/82914c57-ae66-1cd5-cd4d-be4c8ef34bfc.htm" />
+    <HelpKINode Title="WebManager.GetEndpoints Method " Url="html/126694ed-9718-5e3a-900b-16a44e91c3e0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GetModuleNamesAndVersions method" Url="html/22d150c6-4f4e-344e-62ac-2a6a52e1e7cb.htm" />
+  <HelpKINode Title="GetServicesList method" Url="html/fdf2de5a-b80b-c26a-5694-c7fbbb4b62a4.htm" />
+  <HelpKINode Title="Global class">
+    <HelpKINode Title="Global Class" Url="html/c090a060-a328-2a86-a7eb-5d061a6eca31.htm" />
+    <HelpKINode Title="Global Members" Url="html/3321ac2d-8397-0f09-47e7-96a9aeed7535.htm" />
+    <HelpKINode Title="about Global class" Url="html/c090a060-a328-2a86-a7eb-5d061a6eca31.htm" />
+    <HelpKINode Title="all members" Url="html/3321ac2d-8397-0f09-47e7-96a9aeed7535.htm" />
+    <HelpKINode Title="constructor" Url="html/5df06ec0-c094-1f39-e0ca-42db3597cb71.htm" />
+    <HelpKINode Title="events" Url="html/b604c727-23fe-a06a-57b4-2ea00b1a4962.htm" />
+    <HelpKINode Title="fields" Url="html/fa751779-e21c-e852-2b41-1c3969b7bd92.htm" />
+    <HelpKINode Title="methods" Url="html/7d6b84de-15c7-5e2a-6e3c-182a01157d44.htm" />
+    <HelpKINode Title="properties" Url="html/74cccdb1-c349-463e-f0a1-06abfcbde2c2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Global.apppath field" Url="html/2f6f23cb-5330-e2b2-09c4-f0540eefcb24.htm" />
+  <HelpKINode Title="Global.Global constructor" Url="html/5df06ec0-c094-1f39-e0ca-42db3597cb71.htm" />
+  <HelpKINode Title="Global.rootpath field" Url="html/a689d6fb-390b-3ed4-f344-db04e438e4f8.htm" />
+  <HelpKINode Title="GlueHost class">
+    <HelpKINode Title="GlueHost Class" Url="html/572c1683-fb50-1678-7889-0e54e31ba079.htm" />
+    <HelpKINode Title="GlueHost Members" Url="html/c92243f7-596a-fec3-4154-2d27e6b2e823.htm" />
+    <HelpKINode Title="about GlueHost class" Url="html/572c1683-fb50-1678-7889-0e54e31ba079.htm" />
+    <HelpKINode Title="all members" Url="html/c92243f7-596a-fec3-4154-2d27e6b2e823.htm" />
+    <HelpKINode Title="constructor" Url="html/84b83732-6370-3633-ad7c-60b55adcc057.htm" />
+    <HelpKINode Title="methods" Url="html/6191b524-5cf4-7063-256e-4f67417549e6.htm" />
+  </HelpKINode>
+  <HelpKINode Title="GlueHost.GetAllEndpoints method" Url="html/05cfcac5-221b-e90e-7ce9-5def323d594b.htm" />
+  <HelpKINode Title="GlueHost.GetServicesList method" Url="html/fdf2de5a-b80b-c26a-5694-c7fbbb4b62a4.htm" />
+  <HelpKINode Title="GlueHost.GlueHost constructor" Url="html/84b83732-6370-3633-ad7c-60b55adcc057.htm" />
+  <HelpKINode Title="GlueHost.HostServices method" Url="html/6f02d495-5c17-b787-8e31-b7c2cae5a3af.htm" />
+  <HelpKINode Title="GlueHost.Init method" Url="html/6d2a08f6-e095-debe-9e84-f9c912bf7a4f.htm" />
+  <HelpKINode Title="GlueHost.Shutdown method" Url="html/85e92934-c95b-d8a1-d37b-5ac8e62ca5d6.htm" />
+  <HelpKINode Title="GlueHost.Start method" Url="html/d1ee06be-9fef-9b55-87fa-6fe3d491186c.htm" />
+  <HelpKINode Title="GlueHost.WcfLibaryName method" Url="html/2aa2a9a4-ac3f-2363-c4b5-911be65caed3.htm" />
+  <HelpKINode Title="HeadContent field" Url="html/a45b18cd-5298-8d13-a419-cd71e632df86.htm" />
+  <HelpKINode Title="HeadLoginView field" Url="html/dc10e893-6a29-b852-c0dc-30e0c47ac0a9.htm" />
+  <HelpKINode Title="HostAll method">
+    <HelpKINode Title="ISpiderWebService.HostAll Method " Url="html/2199a5b9-dfde-d39f-d336-1dca5272884f.htm" />
+    <HelpKINode Title="SpiderWeb.HostAll Method " Url="html/bd01cd70-2698-faa3-a757-7b1132e56632.htm" />
+    <HelpKINode Title="SpiderWebServiceClient.HostAll Method " Url="html/6d0b62d2-baf9-6f11-d5ce-1ff9f579b287.htm" />
+    <HelpKINode Title="WebManager.HostAll Method " Url="html/0b302fec-2438-0656-2666-bf2214a59776.htm" />
+  </HelpKINode>
+  <HelpKINode Title="HostServices method" Url="html/6f02d495-5c17-b787-8e31-b7c2cae5a3af.htm" />
+  <HelpKINode Title="IGlueHost interface">
+    <HelpKINode Title="IGlueHost Interface" Url="html/a6dc6488-4d3e-cc4b-cb8c-a51c8f6db917.htm" />
+    <HelpKINode Title="IGlueHost Members" Url="html/1cda53c1-5281-6030-2a79-3546be5fa072.htm" />
+    <HelpKINode Title="about IGlueHost interface" Url="html/a6dc6488-4d3e-cc4b-cb8c-a51c8f6db917.htm" />
+    <HelpKINode Title="all members" Url="html/1cda53c1-5281-6030-2a79-3546be5fa072.htm" />
+    <HelpKINode Title="methods" Url="html/8b62d42e-bc53-e092-341a-504bd1997bb4.htm" />
+  </HelpKINode>
+  <HelpKINode Title="IGlueHost.GetAllEndpoints method" Url="html/508e03a7-a230-0ec0-e44a-33c1544387a3.htm" />
+  <HelpKINode Title="IGlueHost.Init method" Url="html/6dcb2736-79c8-e7b8-3e24-103fb5f0df91.htm" />
+  <HelpKINode Title="IGlueHost.Shutdown method" Url="html/aae60e2a-8670-9f6b-09c6-6396c3704c53.htm" />
+  <HelpKINode Title="IGlueHost.Start method" Url="html/5cf53759-cd48-3ed9-ee88-06db7e1b0970.htm" />
+  <HelpKINode Title="IGlueHost.WcfLibaryName method" Url="html/73e11732-dc14-d1be-d211-5704bcbe8e83.htm" />
+  <HelpKINode Title="Init method">
+    <HelpKINode Title="GlueHost.Init Method " Url="html/6d2a08f6-e095-debe-9e84-f9c912bf7a4f.htm" />
+    <HelpKINode Title="IGlueHost.Init Method " Url="html/6dcb2736-79c8-e7b8-3e24-103fb5f0df91.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISpiderWebService interface">
+    <HelpKINode Title="ISpiderWebService Interface" Url="html/2f1512ba-ed17-0f36-7df0-049cdc0dfb2e.htm" />
+    <HelpKINode Title="ISpiderWebService Members" Url="html/4a4e736e-12c1-6ebd-03f1-dc0d01ecec61.htm" />
+    <HelpKINode Title="about ISpiderWebService interface" Url="html/2f1512ba-ed17-0f36-7df0-049cdc0dfb2e.htm" />
+    <HelpKINode Title="all members" Url="html/4a4e736e-12c1-6ebd-03f1-dc0d01ecec61.htm" />
+    <HelpKINode Title="methods" Url="html/215cd205-49cf-98b6-07b2-96790e833019.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ISpiderWebService.FindService method" Url="html/2dfbe6f7-1de7-90be-c916-5a4ab0637194.htm" />
+  <HelpKINode Title="ISpiderWebService.GetEndpoints method" Url="html/df2a5f14-1d56-d5a2-fa60-8b71a75a2d8e.htm" />
+  <HelpKINode Title="ISpiderWebService.HostAll method" Url="html/2199a5b9-dfde-d39f-d336-1dca5272884f.htm" />
+  <HelpKINode Title="ISpiderWebService.ListServices method" Url="html/9d6d4fd9-eb9c-6658-5592-ef24bbe61d08.htm" />
+  <HelpKINode Title="ISpiderWebService.ShutdownAll method" Url="html/83f3e80d-0421-8cd0-ced3-8d4640e2e391.htm" />
+  <HelpKINode Title="ISpiderWebService.ShutownContainedServices method" Url="html/e5909f74-308c-e3d5-b5b3-edef30ae2a9e.htm" />
+  <HelpKINode Title="ISpiderWebServiceChannel interface">
+    <HelpKINode Title="ISpiderWebServiceChannel Interface" Url="html/a1946546-d329-b19c-1ecc-f371b739fdd1.htm" />
+    <HelpKINode Title="ISpiderWebServiceChannel Members" Url="html/fc8db14f-6dea-b7dd-de5b-acd18bad0af6.htm" />
+    <HelpKINode Title="about ISpiderWebServiceChannel interface" Url="html/a1946546-d329-b19c-1ecc-f371b739fdd1.htm" />
+    <HelpKINode Title="all members" Url="html/fc8db14f-6dea-b7dd-de5b-acd18bad0af6.htm" />
+    <HelpKINode Title="events" Url="html/44cb3cfc-67c8-b388-757a-483a661b2340.htm" />
+    <HelpKINode Title="methods" Url="html/4fba2e47-f61f-1427-fcbe-a3641b707a6c.htm" />
+    <HelpKINode Title="properties" Url="html/11698ccf-aff7-7048-da17-f86a8b919a83.htm" />
+  </HelpKINode>
+  <HelpKINode Title="lblappname field" Url="html/edb92090-d6eb-2301-e998-9e5cb884696c.htm" />
+  <HelpKINode Title="lblAppname field" Url="html/863b40a8-06af-6c89-76c9-d44f20921b4c.htm" />
+  <HelpKINode Title="lblDisabledUserCreation field" Url="html/e4a018b8-fb6b-b614-18a4-695ea3c54f63.htm" />
+  <HelpKINode Title="lblServiceFiles field" Url="html/34d39a91-006a-3dbb-74ca-93f2f1704ff4.htm" />
+  <HelpKINode Title="List class">
+    <HelpKINode Title="List Class" Url="html/8c5aebd5-74ba-1803-8f0c-b2c97ee80254.htm" />
+    <HelpKINode Title="List Members" Url="html/40a57b73-4de7-c43f-a01c-33835a6bb259.htm" />
+    <HelpKINode Title="about List class" Url="html/8c5aebd5-74ba-1803-8f0c-b2c97ee80254.htm" />
+    <HelpKINode Title="all members" Url="html/40a57b73-4de7-c43f-a01c-33835a6bb259.htm" />
+    <HelpKINode Title="constructor" Url="html/0264fbe8-63fa-38ec-3949-60fd1f6d2bc2.htm" />
+    <HelpKINode Title="events" Url="html/0858901d-a493-9abc-0221-60964bff739c.htm" />
+    <HelpKINode Title="fields" Url="html/4c264cb3-3f52-8809-1ba4-5e507ba9183c.htm" />
+    <HelpKINode Title="methods" Url="html/6ca2eec3-7b0e-3c49-9820-3f06fe007d87.htm" />
+    <HelpKINode Title="properties" Url="html/02c537ae-f393-89d4-28d2-8a0177e01d54.htm" />
+  </HelpKINode>
+  <HelpKINode Title="List.EndPoit field" Url="html/a1cff687-c1e0-ea65-b592-306daf4ee3b9.htm" />
+  <HelpKINode Title="List.List constructor" Url="html/0264fbe8-63fa-38ec-3949-60fd1f6d2bc2.htm" />
+  <HelpKINode Title="List.Page_Load method" Url="html/1c9af0d3-3c1b-e81d-6670-979ff8673c3e.htm" />
+  <HelpKINode Title="List.ServiceName field" Url="html/c718db42-a2fa-084f-b4b6-c80672103a60.htm" />
+  <HelpKINode Title="List.tblServices field" Url="html/43d6ae79-8575-2143-ab60-e3377cc29e08.htm" />
+  <HelpKINode Title="ListServices method">
+    <HelpKINode Title="ISpiderWebService.ListServices Method " Url="html/9d6d4fd9-eb9c-6658-5592-ef24bbe61d08.htm" />
+    <HelpKINode Title="SpiderWeb.ListServices Method " Url="html/991990b8-85c5-c8bd-9b69-dbcc389a98ec.htm" />
+    <HelpKINode Title="SpiderWebServiceClient.ListServices Method " Url="html/d75a394a-2c49-b305-1009-7e5af1041963.htm" />
+    <HelpKINode Title="WebManager.ListServices Method " Url="html/fd339db9-4e00-7dd4-580c-c4a5f0437e0f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Login class">
+    <HelpKINode Title="Login Class" Url="html/23bb3542-3350-4224-1398-2aed26286b58.htm" />
+    <HelpKINode Title="Login Members" Url="html/d13fbad7-9d1f-0e25-00ff-aa6249b72134.htm" />
+    <HelpKINode Title="about Login class" Url="html/23bb3542-3350-4224-1398-2aed26286b58.htm" />
+    <HelpKINode Title="all members" Url="html/d13fbad7-9d1f-0e25-00ff-aa6249b72134.htm" />
+    <HelpKINode Title="constructor" Url="html/c4d58002-4f24-4013-c205-6a7a790e5aaa.htm" />
+    <HelpKINode Title="events" Url="html/7b941b7a-dff3-c78d-4e23-e5c673a67c3b.htm" />
+    <HelpKINode Title="fields" Url="html/f30a7694-4067-61b1-0307-9fff83536595.htm" />
+    <HelpKINode Title="methods" Url="html/0fe64650-a975-664f-1598-efca69e21fc4.htm" />
+    <HelpKINode Title="properties" Url="html/28e357c8-ddd4-030f-6f63-3b545d047c6d.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Login.Login constructor" Url="html/c4d58002-4f24-4013-c205-6a7a790e5aaa.htm" />
+  <HelpKINode Title="Login.LoginUser field" Url="html/72a6216c-31bb-8e98-d4cc-c444a36be702.htm" />
+  <HelpKINode Title="Login.Page_Load method" Url="html/28c7f9c1-f049-d7dc-d4b1-248f53821fa1.htm" />
+  <HelpKINode Title="Login.RegisterHyperLink field" Url="html/d9772751-8f36-8977-c69d-e94c534720f9.htm" />
+  <HelpKINode Title="LoginUser field" Url="html/72a6216c-31bb-8e98-d4cc-c444a36be702.htm" />
+  <HelpKINode Title="MainContent field" Url="html/643eb5a0-628f-cdd0-5686-c7c901a82394.htm" />
+  <HelpKINode Title="NavigationMenu field" Url="html/013ce84d-4e88-d3c4-b74b-30376dcf674d.htm" />
+  <HelpKINode Title="Page_Load method">
+    <HelpKINode Title="About.Page_Load Method " Url="html/e51a4393-bcf4-fc79-52ee-696a20740a1d.htm" />
+    <HelpKINode Title="Add.Page_Load Method " Url="html/bd83d5ae-7bbc-437c-175b-f2db051047d2.htm" />
+    <HelpKINode Title="ChangePassword.Page_Load Method " Url="html/65afc155-41b6-8c7c-2bec-69d39e7252dd.htm" />
+    <HelpKINode Title="ChangePasswordSuccess.Page_Load Method " Url="html/0efb766a-c94e-36af-6448-1641d78cb7b2.htm" />
+    <HelpKINode Title="List.Page_Load Method " Url="html/1c9af0d3-3c1b-e81d-6670-979ff8673c3e.htm" />
+    <HelpKINode Title="Login.Page_Load Method " Url="html/28c7f9c1-f049-d7dc-d4b1-248f53821fa1.htm" />
+    <HelpKINode Title="Register.Page_Load Method " Url="html/691ddb52-1328-2b1f-5041-cc252c853148.htm" />
+    <HelpKINode Title="SiteMaster.Page_Load Method " Url="html/f115964f-95c4-088f-e3a3-475d2f3314be.htm" />
+    <HelpKINode Title="_Default.Page_Load Method " Url="html/1e376917-dc0d-ad97-7ee5-23449b79531c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProcessMngr class">
+    <HelpKINode Title="ProcessMngr Class" Url="html/d56a35a0-5e0f-7de1-e843-653de433fb93.htm" />
+    <HelpKINode Title="ProcessMngr Members" Url="html/5489072a-eaa8-1d75-b150-f5eb424a85f8.htm" />
+    <HelpKINode Title="about ProcessMngr class" Url="html/d56a35a0-5e0f-7de1-e843-653de433fb93.htm" />
+    <HelpKINode Title="all members" Url="html/5489072a-eaa8-1d75-b150-f5eb424a85f8.htm" />
+    <HelpKINode Title="constructor" Url="html/b1c5dde8-8845-de02-e3b5-b6d5da0a8261.htm" />
+    <HelpKINode Title="methods" Url="html/39782453-a116-4122-529d-978fc462c9af.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProcessMngr.ProcessMngr constructor" Url="html/b1c5dde8-8845-de02-e3b5-b6d5da0a8261.htm" />
+  <HelpKINode Title="ProcessMngr.Restart method" Url="html/ec8f6fb8-a804-5f1e-5509-8c0fa2a07772.htm" />
+  <HelpKINode Title="ProcessMngr.Start method" Url="html/2ba86417-b9bb-5ddf-0b2d-bf0424ef2db2.htm" />
+  <HelpKINode Title="ProcessMngr.Stop method" Url="html/13575869-e340-1b28-e190-c3e6c25a066c.htm" />
+  <HelpKINode Title="Program class">
+    <HelpKINode Title="Program Class" Url="html/69c4d670-5580-9605-bcf5-688301e471dd.htm" />
+    <HelpKINode Title="Program Members" Url="html/ad113af1-29e5-1dbc-033c-2bbcfd77bd0b.htm" />
+    <HelpKINode Title="about Program class" Url="html/69c4d670-5580-9605-bcf5-688301e471dd.htm" />
+    <HelpKINode Title="all members" Url="html/ad113af1-29e5-1dbc-033c-2bbcfd77bd0b.htm" />
+    <HelpKINode Title="constructor" Url="html/2624fbac-4855-4ccc-84de-554c1eece479.htm" />
+    <HelpKINode Title="fields" Url="html/efe66b37-8fbf-e9d4-7cc8-02e8713fa0ba.htm" />
+    <HelpKINode Title="methods" Url="html/390241ec-7976-8e5b-bea3-c24d10c451ba.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Program.end field" Url="html/b6d6cd9b-908b-8071-e05d-a63273f82f11.htm" />
+  <HelpKINode Title="Program.FindWindow method" Url="html/1fb2a229-1c31-5549-e651-7450d5beb8a7.htm" />
+  <HelpKINode Title="Program.Program constructor" Url="html/2624fbac-4855-4ccc-84de-554c1eece479.htm" />
+  <HelpKINode Title="Program.services field" Url="html/4b71ab83-1584-fcfd-0576-ee9104a795b7.htm" />
+  <HelpKINode Title="ProjectInstaller class">
+    <HelpKINode Title="ProjectInstaller Class" Url="html/ebaf51f0-e399-c8a8-63c1-c43eee35226b.htm" />
+    <HelpKINode Title="ProjectInstaller Members" Url="html/58453433-0c39-6a74-c65f-bd75e4d7fbd1.htm" />
+    <HelpKINode Title="about ProjectInstaller class" Url="html/ebaf51f0-e399-c8a8-63c1-c43eee35226b.htm" />
+    <HelpKINode Title="all members" Url="html/58453433-0c39-6a74-c65f-bd75e4d7fbd1.htm" />
+    <HelpKINode Title="constructor" Url="html/0c6e8f68-47cc-9065-54cf-cde8779bcf39.htm" />
+    <HelpKINode Title="events" Url="html/5819a558-bae3-aa5f-8663-b73eeac304e8.htm" />
+    <HelpKINode Title="methods" Url="html/124001c1-1400-aa0d-4ce3-da56d15d989a.htm" />
+    <HelpKINode Title="properties" Url="html/f2cf5707-3bca-9bd7-ff69-927e4064fa2c.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProjectInstaller.Dispose method" Url="html/3b4c76ed-688d-37af-365a-7c01266d9d7b.htm" />
+  <HelpKINode Title="ProjectInstaller.ProjectInstaller constructor" Url="html/0c6e8f68-47cc-9065-54cf-cde8779bcf39.htm" />
+  <HelpKINode Title="ReadConfig class">
+    <HelpKINode Title="ReadConfig Class" Url="html/d15e2d16-c5ed-606a-543b-f1c8cb4fb25f.htm" />
+    <HelpKINode Title="ReadConfig Members" Url="html/462f3d6f-4a9a-eb45-5d15-f348b4c9d116.htm" />
+    <HelpKINode Title="about ReadConfig class" Url="html/d15e2d16-c5ed-606a-543b-f1c8cb4fb25f.htm" />
+    <HelpKINode Title="all members" Url="html/462f3d6f-4a9a-eb45-5d15-f348b4c9d116.htm" />
+    <HelpKINode Title="constructor" Url="html/7c8c2a5e-a589-cfe7-1b43-aa82718800a8.htm" />
+    <HelpKINode Title="fields" Url="html/c79047bd-9d3d-b087-8f73-0cab1981b7e8.htm" />
+    <HelpKINode Title="methods" Url="html/24fb3a89-4288-5d35-3685-4483280f7117.htm" />
+    <HelpKINode Title="properties" Url="html/1e17747c-040b-dc9f-eaac-559c8d37748b.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Readconfig method" Url="html/0282dae9-f557-eb76-e502-2fc65d742d0b.htm" />
+  <HelpKINode Title="ReadConfig.configfile field" Url="html/1d7a08fa-95ff-3cc3-a083-975ae5909047.htm" />
+  <HelpKINode Title="ReadConfig.createUser property" Url="html/e92f6321-5aa9-da05-1846-33d21e32f056.htm" />
+  <HelpKINode Title="ReadConfig.ReadConfig constructor" Url="html/7c8c2a5e-a589-cfe7-1b43-aa82718800a8.htm" />
+  <HelpKINode Title="ReadConfig.Readconfig method" Url="html/0282dae9-f557-eb76-e502-2fc65d742d0b.htm" />
+  <HelpKINode Title="Register class">
+    <HelpKINode Title="Register Class" Url="html/4936c502-d760-a642-ba0e-b5e57d4210b8.htm" />
+    <HelpKINode Title="Register Members" Url="html/66eb2017-10cd-cedb-4962-a98c7b169106.htm" />
+    <HelpKINode Title="about Register class" Url="html/4936c502-d760-a642-ba0e-b5e57d4210b8.htm" />
+    <HelpKINode Title="all members" Url="html/66eb2017-10cd-cedb-4962-a98c7b169106.htm" />
+    <HelpKINode Title="constructor" Url="html/1f82bff0-d8fd-4362-e165-cfbb6db4d7d4.htm" />
+    <HelpKINode Title="events" Url="html/a9fab5ab-86c5-285d-db23-8a599b549e28.htm" />
+    <HelpKINode Title="fields" Url="html/85810bba-0b66-7832-44ae-3b6d0a1b5871.htm" />
+    <HelpKINode Title="methods" Url="html/673e5a76-5c13-8515-3933-416ae2a5ca07.htm" />
+    <HelpKINode Title="properties" Url="html/c48966c3-e9c5-57ce-ac99-23744d4dd384.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Register.lblDisabledUserCreation field" Url="html/e4a018b8-fb6b-b614-18a4-695ea3c54f63.htm" />
+  <HelpKINode Title="Register.Page_Load method" Url="html/691ddb52-1328-2b1f-5041-cc252c853148.htm" />
+  <HelpKINode Title="Register.Register constructor" Url="html/1f82bff0-d8fd-4362-e165-cfbb6db4d7d4.htm" />
+  <HelpKINode Title="Register.RegisterUser field" Url="html/7af13960-8bf8-7e3c-179b-af1bf0e045ea.htm" />
+  <HelpKINode Title="Register.RegisterUserWizardStep field" Url="html/01f29c68-7d8f-a815-4892-ed975f601ccb.htm" />
+  <HelpKINode Title="Register.RegisterUser_CreatedUser method" Url="html/ed5c2594-f2e5-d8e9-6ca3-32bc2b1ba0f9.htm" />
+  <HelpKINode Title="RegisterHyperLink field" Url="html/d9772751-8f36-8977-c69d-e94c534720f9.htm" />
+  <HelpKINode Title="RegisterUser field" Url="html/7af13960-8bf8-7e3c-179b-af1bf0e045ea.htm" />
+  <HelpKINode Title="RegisterUserWizardStep field" Url="html/01f29c68-7d8f-a815-4892-ed975f601ccb.htm" />
+  <HelpKINode Title="RegisterUser_CreatedUser method" Url="html/ed5c2594-f2e5-d8e9-6ca3-32bc2b1ba0f9.htm" />
+  <HelpKINode Title="Restart method" Url="html/ec8f6fb8-a804-5f1e-5509-8c0fa2a07772.htm" />
+  <HelpKINode Title="rootpath field" Url="html/a689d6fb-390b-3ed4-f344-db04e438e4f8.htm" />
+  <HelpKINode Title="ServiceName field" Url="html/c718db42-a2fa-084f-b4b6-c80672103a60.htm" />
+  <HelpKINode Title="services field" Url="html/4b71ab83-1584-fcfd-0576-ee9104a795b7.htm" />
+  <HelpKINode Title="Shutdown method">
+    <HelpKINode Title="GlueHost.Shutdown Method " Url="html/85e92934-c95b-d8a1-d37b-5ac8e62ca5d6.htm" />
+    <HelpKINode Title="IGlueHost.Shutdown Method " Url="html/aae60e2a-8670-9f6b-09c6-6396c3704c53.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShutdownAll method">
+    <HelpKINode Title="ISpiderWebService.ShutdownAll Method " Url="html/83f3e80d-0421-8cd0-ced3-8d4640e2e391.htm" />
+    <HelpKINode Title="SpiderWeb.ShutdownAll Method " Url="html/de6c5fda-0226-f65b-694c-b3c592d0b1e9.htm" />
+    <HelpKINode Title="SpiderWebServiceClient.ShutdownAll Method " Url="html/5e9b8650-5ea0-bf9b-5d00-4d4702d1be96.htm" />
+    <HelpKINode Title="WebManager.ShutdownAll Method " Url="html/46b70acc-4a20-6e2f-4964-8919b414d8ef.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ShutownContainedServices method">
+    <HelpKINode Title="ISpiderWebService.ShutownContainedServices Method " Url="html/e5909f74-308c-e3d5-b5b3-edef30ae2a9e.htm" />
+    <HelpKINode Title="SpiderWeb.ShutownContainedServices Method " Url="html/506175c1-955d-0b62-123b-09f82d747b08.htm" />
+    <HelpKINode Title="SpiderWebServiceClient.ShutownContainedServices Method " Url="html/3f6c7905-f930-009f-d250-597a8c035c98.htm" />
+    <HelpKINode Title="WebManager.ShutownContainedServices Method " Url="html/f042955a-c6be-8e2f-7068-23e31ad51284.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SiteMaster class">
+    <HelpKINode Title="SiteMaster Class" Url="html/50c318b5-1892-8c0f-45b2-fee31025fe77.htm" />
+    <HelpKINode Title="SiteMaster Members" Url="html/f8e348d7-75a9-5094-d45a-56b5951dae3d.htm" />
+    <HelpKINode Title="about SiteMaster class" Url="html/50c318b5-1892-8c0f-45b2-fee31025fe77.htm" />
+    <HelpKINode Title="all members" Url="html/f8e348d7-75a9-5094-d45a-56b5951dae3d.htm" />
+    <HelpKINode Title="constructor" Url="html/14b9581b-05a5-c8b8-0f7e-cbd047ebafa2.htm" />
+    <HelpKINode Title="events" Url="html/ce93dfaa-1fb8-e0a8-2cb4-974f5181b5be.htm" />
+    <HelpKINode Title="fields" Url="html/f770f17d-759c-519b-55f0-3ed7662ee5ee.htm" />
+    <HelpKINode Title="methods" Url="html/02da798b-56af-887d-25d6-6342efc799b3.htm" />
+    <HelpKINode Title="properties" Url="html/a783a52d-816c-34e0-1fa9-f6e07ec66ab0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SiteMaster.HeadContent field" Url="html/a45b18cd-5298-8d13-a419-cd71e632df86.htm" />
+  <HelpKINode Title="SiteMaster.HeadLoginView field" Url="html/dc10e893-6a29-b852-c0dc-30e0c47ac0a9.htm" />
+  <HelpKINode Title="SiteMaster.lblappname field" Url="html/edb92090-d6eb-2301-e998-9e5cb884696c.htm" />
+  <HelpKINode Title="SiteMaster.MainContent field" Url="html/643eb5a0-628f-cdd0-5686-c7c901a82394.htm" />
+  <HelpKINode Title="SiteMaster.NavigationMenu field" Url="html/013ce84d-4e88-d3c4-b74b-30376dcf674d.htm" />
+  <HelpKINode Title="SiteMaster.Page_Load method" Url="html/f115964f-95c4-088f-e3a3-475d2f3314be.htm" />
+  <HelpKINode Title="SiteMaster.SiteMaster constructor" Url="html/14b9581b-05a5-c8b8-0f7e-cbd047ebafa2.htm" />
+  <HelpKINode Title="SpiderWeb class">
+    <HelpKINode Title="SpiderWeb Class" Url="html/55bf8136-9736-7cf7-b61b-b445f1b828da.htm" />
+    <HelpKINode Title="SpiderWeb Members" Url="html/cc432074-ecbe-42e0-6b61-0154accce7a2.htm" />
+    <HelpKINode Title="about SpiderWeb class" Url="html/55bf8136-9736-7cf7-b61b-b445f1b828da.htm" />
+    <HelpKINode Title="all members" Url="html/cc432074-ecbe-42e0-6b61-0154accce7a2.htm" />
+    <HelpKINode Title="constructor" Url="html/2f94fe59-3804-c877-867d-2d14714e38ff.htm" />
+    <HelpKINode Title="methods" Url="html/38b65972-070f-471d-b793-794cb646f08f.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SpiderWeb.FindService method" Url="html/0a543c1b-c9a7-27ce-5706-0f0d7f837f44.htm" />
+  <HelpKINode Title="SpiderWeb.GetEndpoints method" Url="html/60ef103f-43d4-5f53-b65d-eb65a7080985.htm" />
+  <HelpKINode Title="SpiderWeb.HostAll method" Url="html/bd01cd70-2698-faa3-a757-7b1132e56632.htm" />
+  <HelpKINode Title="SpiderWeb.ListServices method" Url="html/991990b8-85c5-c8bd-9b69-dbcc389a98ec.htm" />
+  <HelpKINode Title="SpiderWeb.ShutdownAll method" Url="html/de6c5fda-0226-f65b-694c-b3c592d0b1e9.htm" />
+  <HelpKINode Title="SpiderWeb.ShutownContainedServices method" Url="html/506175c1-955d-0b62-123b-09f82d747b08.htm" />
+  <HelpKINode Title="SpiderWeb.SpiderWeb constructor" Url="html/2f94fe59-3804-c877-867d-2d14714e38ff.htm" />
+  <HelpKINode Title="SpiderWebServiceClient class">
+    <HelpKINode Title="SpiderWebServiceClient Class" Url="html/3fca7a18-14eb-f6b8-af1b-94e255bc1c5c.htm" />
+    <HelpKINode Title="SpiderWebServiceClient Members" Url="html/b7934b43-65a4-5da0-cd18-37b5476fe28f.htm" />
+    <HelpKINode Title="about SpiderWebServiceClient class" Url="html/3fca7a18-14eb-f6b8-af1b-94e255bc1c5c.htm" />
+    <HelpKINode Title="all members" Url="html/b7934b43-65a4-5da0-cd18-37b5476fe28f.htm" />
+    <HelpKINode Title="constructor" Url="html/e25d0e26-3e7f-0188-eb8a-5c0eb7242f89.htm" />
+    <HelpKINode Title="methods" Url="html/ae7a5b47-8b19-875a-a6fe-3f9f12183509.htm" />
+    <HelpKINode Title="properties" Url="html/4714e7e8-92d4-8f7a-ccec-328b7bc05aa0.htm" />
+  </HelpKINode>
+  <HelpKINode Title="SpiderWebServiceClient.FindService method" Url="html/e10dacd0-4361-c535-2f67-6388759caaf2.htm" />
+  <HelpKINode Title="SpiderWebServiceClient.GetEndpoints method" Url="html/82914c57-ae66-1cd5-cd4d-be4c8ef34bfc.htm" />
+  <HelpKINode Title="SpiderWebServiceClient.HostAll method" Url="html/6d0b62d2-baf9-6f11-d5ce-1ff9f579b287.htm" />
+  <HelpKINode Title="SpiderWebServiceClient.ListServices method" Url="html/d75a394a-2c49-b305-1009-7e5af1041963.htm" />
+  <HelpKINode Title="SpiderWebServiceClient.ShutdownAll method" Url="html/5e9b8650-5ea0-bf9b-5d00-4d4702d1be96.htm" />
+  <HelpKINode Title="SpiderWebServiceClient.ShutownContainedServices method" Url="html/3f6c7905-f930-009f-d250-597a8c035c98.htm" />
+  <HelpKINode Title="SpiderWebServiceClient.SpiderWebServiceClient constructor" Url="html/e25d0e26-3e7f-0188-eb8a-5c0eb7242f89.htm" />
+  <HelpKINode Title="Start method">
+    <HelpKINode Title="GlueHost.Start Method " Url="html/d1ee06be-9fef-9b55-87fa-6fe3d491186c.htm" />
+    <HelpKINode Title="IGlueHost.Start Method " Url="html/5cf53759-cd48-3ed9-ee88-06db7e1b0970.htm" />
+    <HelpKINode Title="ProcessMngr.Start Method " Url="html/2ba86417-b9bb-5ddf-0b2d-bf0424ef2db2.htm" />
+  </HelpKINode>
+  <HelpKINode Title="Stop method" Url="html/13575869-e340-1b28-e190-c3e6c25a066c.htm" />
+  <HelpKINode Title="tblServices field" Url="html/43d6ae79-8575-2143-ab60-e3377cc29e08.htm" />
+  <HelpKINode Title="WcfLibaryName method">
+    <HelpKINode Title="GlueHost.WcfLibaryName Method " Url="html/2aa2a9a4-ac3f-2363-c4b5-911be65caed3.htm" />
+    <HelpKINode Title="IGlueHost.WcfLibaryName Method " Url="html/73e11732-dc14-d1be-d211-5704bcbe8e83.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebManager class">
+    <HelpKINode Title="WebManager Class" Url="html/4db65af7-3444-3353-393e-9bc568b617fe.htm" />
+    <HelpKINode Title="WebManager Members" Url="html/f4ad312f-7d9a-0f8a-2812-5de06b38bf3b.htm" />
+    <HelpKINode Title="about WebManager class" Url="html/4db65af7-3444-3353-393e-9bc568b617fe.htm" />
+    <HelpKINode Title="all members" Url="html/f4ad312f-7d9a-0f8a-2812-5de06b38bf3b.htm" />
+    <HelpKINode Title="constructor" Url="html/8a0ae57b-5b21-8a0c-ca67-3ab7d360b0a7.htm" />
+    <HelpKINode Title="methods" Url="html/d82c76d8-3d19-9ccc-12ad-eb44a1f85b59.htm" />
+  </HelpKINode>
+  <HelpKINode Title="WebManager.FindService method" Url="html/1fc52183-78c0-dccc-a3bc-3a666f9e9a6e.htm" />
+  <HelpKINode Title="WebManager.GetEndpoints method" Url="html/126694ed-9718-5e3a-900b-16a44e91c3e0.htm" />
+  <HelpKINode Title="WebManager.HostAll method" Url="html/0b302fec-2438-0656-2666-bf2214a59776.htm" />
+  <HelpKINode Title="WebManager.ListServices method" Url="html/fd339db9-4e00-7dd4-580c-c4a5f0437e0f.htm" />
+  <HelpKINode Title="WebManager.ShutdownAll method" Url="html/46b70acc-4a20-6e2f-4964-8919b414d8ef.htm" />
+  <HelpKINode Title="WebManager.ShutownContainedServices method" Url="html/f042955a-c6be-8e2f-7068-23e31ad51284.htm" />
+  <HelpKINode Title="WebManager.WebManager constructor" Url="html/8a0ae57b-5b21-8a0c-ca67-3ab7d360b0a7.htm" />
+  <HelpKINode Title="_Default class">
+    <HelpKINode Title="_Default Class" Url="html/264aee9d-4897-8a50-e023-dccd9ab9f9bd.htm" />
+    <HelpKINode Title="_Default Members" Url="html/d4776e01-30c0-dbc0-453b-d6907c75c05b.htm" />
+    <HelpKINode Title="about _Default class" Url="html/264aee9d-4897-8a50-e023-dccd9ab9f9bd.htm" />
+    <HelpKINode Title="all members" Url="html/d4776e01-30c0-dbc0-453b-d6907c75c05b.htm" />
+    <HelpKINode Title="constructor" Url="html/17929a8d-45f1-2761-5e9e-b9fde0631a64.htm" />
+    <HelpKINode Title="events" Url="html/6d38c880-e6d3-7967-f330-93cfbc801d6a.htm" />
+    <HelpKINode Title="methods" Url="html/93eac87f-fcf0-f38e-192e-ce0d9a4759e2.htm" />
+    <HelpKINode Title="properties" Url="html/a73508e9-8265-34fe-4749-60457787f004.htm" />
+  </HelpKINode>
+  <HelpKINode Title="_Default.Page_Load method" Url="html/1e376917-dc0d-ad97-7ee5-23449b79531c.htm" />
+  <HelpKINode Title="_Default._Default constructor" Url="html/17929a8d-45f1-2761-5e9e-b9fde0631a64.htm" />
+</HelpKI>

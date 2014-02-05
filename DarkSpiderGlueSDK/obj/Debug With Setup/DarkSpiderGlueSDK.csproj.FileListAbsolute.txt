@@ -1,0 +1,5 @@
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Debug With Setup\DarkSpiderGlueSDK.dll
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\bin\Debug With Setup\DarkSpiderGlueSDK.pdb
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Debug With Setup\ResolveAssemblyReference.cache
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Debug With Setup\DarkSpiderGlueSDK.dll
+G:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueSDK\obj\Debug With Setup\DarkSpiderGlueSDK.pdb
