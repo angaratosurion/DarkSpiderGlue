@@ -14,3 +14,11 @@ Notes: default user is Administrator
 default username:@dministrator
 Also in asp_data fodleredit the spider_config.xml to whatever you want.</li>
 </ul>
+
+Documentation
+==============
+http://pariskoutsioukis.net/doc/DarkSpiderGlue/
+
+Blog
+=============
+http://pariskoutsioukis.net/blog/
