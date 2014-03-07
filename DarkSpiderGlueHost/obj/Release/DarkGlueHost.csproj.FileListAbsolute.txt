@@ -10,3 +10,11 @@ Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\todo.txt
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\licence.txt
 Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\DarkSpiderGlueHost.exe.config
 Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\obj\Release\DarkSpiderGlueHost.exe
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\changes.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\licence.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\todo.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\DarkSpiderGlueHost.exe
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\bin\Release\DarkSpiderGlue.xml
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueHost\obj\Release\DarkGlueHost.csprojResolveAssemblyReference.cache

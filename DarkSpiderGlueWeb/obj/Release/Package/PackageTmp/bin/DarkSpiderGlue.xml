@@ -4,42 +4,6 @@
         <name>DarkSpiderGlue</name>
     </assembly>
     <members>
-        <member name="M:DarkSpiderGlue.SpiderWeb.HostAll">
-            <summary>
-            Hosts all WCF Services that are in the application folder\services path and starts them
-            </summary>
-        </member>
-        <!-- Badly formed XML comment ignored for member "M:DarkSpiderGlue.SpiderWeb.HostAll(System.String)" -->
-        <member name="M:DarkSpiderGlue.SpiderWeb.ShutdownAll">
-            <summary>
-            Shutdowns all the hosted libraries
-            </summary>
-        </member>
-        <member name="M:DarkSpiderGlue.SpiderWeb.GetEndpoints">
-            <summary>
-            Returns the full list Of endpoints that are hosted within DarkSpiderGlue
-            </summary>
-            <returns>Returns the full list Of endpoints that are hosted within DarkSpiderGlue</returns>
-        </member>
-        <member name="M:DarkSpiderGlue.SpiderWeb.FindService(System.String)">
-            <summary>
-            Finds the WCF service library with the given name
-            </summary>
-            <param name="name">name of the WCF library</param>
-            <returns>the WCF service library with the given name</returns>
-        </member>
-        <member name="M:DarkSpiderGlue.SpiderWeb.ShutownContainedServices(System.String)">
-            <summary>
-            Closes the services wich are contained in the provided  WCF Service Library 
-            </summary>
-            <param name="name"> the name of the WCF Library</param>
-        </member>
-        <member name="M:DarkSpiderGlue.SpiderWeb.ListServices">
-            <summary>
-            Returns the runing services and their endpoints in 2D table 
-            </summary>
-            <returns> runing services and their endpoints in 2D table</returns>
-        </member>
         <member name="T:DarkSpiderGlue.GlueHost">
             <summary>
             The Generic Host class which will host all the services contained within a wcfLibrary
@@ -125,6 +89,42 @@
         </member>
         <!-- Badly formed XML comment ignored for member "M:DarkSpiderGlue.WebManager.HostAll(System.String)" -->
         <member name="M:DarkSpiderGlue.WebManager.ListServices">
+            <summary>
+            Returns the runing services and their endpoints in 2D table 
+            </summary>
+            <returns> runing services and their endpoints in 2D table</returns>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.HostAll">
+            <summary>
+            Hosts all WCF Services that are in the application folder\services path and starts them
+            </summary>
+        </member>
+        <!-- Badly formed XML comment ignored for member "M:DarkSpiderGlue.SpiderWeb.HostAll(System.String)" -->
+        <member name="M:DarkSpiderGlue.SpiderWeb.ShutdownAll">
+            <summary>
+            Shutdowns all the hosted libraries
+            </summary>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.GetEndpoints">
+            <summary>
+            Returns the full list Of endpoints that are hosted within DarkSpiderGlue
+            </summary>
+            <returns>Returns the full list Of endpoints that are hosted within DarkSpiderGlue</returns>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.FindService(System.String)">
+            <summary>
+            Finds the WCF service library with the given name
+            </summary>
+            <param name="name">name of the WCF library</param>
+            <returns>the WCF service library with the given name</returns>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.ShutownContainedServices(System.String)">
+            <summary>
+            Closes the services wich are contained in the provided  WCF Service Library 
+            </summary>
+            <param name="name"> the name of the WCF Library</param>
+        </member>
+        <member name="M:DarkSpiderGlue.SpiderWeb.ListServices">
             <summary>
             Returns the runing services and their endpoints in 2D table 
             </summary>

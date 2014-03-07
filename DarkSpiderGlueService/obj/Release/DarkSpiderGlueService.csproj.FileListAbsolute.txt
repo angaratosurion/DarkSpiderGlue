@@ -10,3 +10,15 @@ Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\changes.t
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\todo.txt
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\obj\Release\DarkSpiderGlueService.csprojResolveAssemblyReference.cache
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\licence.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\changes.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\licence.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\todo.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\DarkSpiderGlueService.exe.config
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\DarkSpiderGlueService.exe
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\bin\Release\DarkSpiderGlue.xml
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\obj\Release\DarkSpiderGlueService.csprojResolveAssemblyReference.cache
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\obj\Release\DarkSpiderGlueService.ProjectInstaller.resources
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\obj\Release\DarkSpiderGlueService.csproj.GenerateResource.Cache
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueService\obj\Release\DarkSpiderGlueService.exe

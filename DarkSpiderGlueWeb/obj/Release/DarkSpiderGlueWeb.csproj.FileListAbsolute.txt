@@ -22,3 +22,16 @@ Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release\DarkSpiderGlu
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\changes.txt
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\todo.txt
 Y:\My Programs\dotNet\DarkSpiderGlue\DarkSpiderGlueWeb\bin\licence.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\changes.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\licence.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\todo.txt
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlueWeb.dll
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlueWeb.pdb
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlue.dll
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlueHost.exe
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\ICSharpCode.SharpZipLib.dll
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlue.pdb
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\bin\DarkSpiderGlue.xml
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release\DarkSpiderGlueWeb.csprojResolveAssemblyReference.cache
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release\DarkSpiderGlueWeb.dll
+Y:\My Programs\dotNet\Open Source\DarkSpiderGlue\DarkSpiderGlueWeb\obj\Release\DarkSpiderGlueWeb.pdb
